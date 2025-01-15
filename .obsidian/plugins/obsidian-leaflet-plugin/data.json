@@ -1,0 +1,184 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1735002705256,
+      "markers": [
+        {
+          "id": "ID_197b787bfb08",
+          "type": "default",
+          "loc": [
+            -1.09375,
+            1.2109375
+          ],
+          "link": "Random Potions",
+          "layer": "%5B%5BCaveEntrence.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2767857142857143,
+            0.3076923076923077
+          ],
+          "description": "Random Potions",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_983af92a9a0b",
+          "type": "default",
+          "loc": [
+            -2.1796875,
+            0.94140625
+          ],
+          "layer": "%5B%5BCaveEntrence.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21517857142857144,
+            0.6131868131868132
+          ],
+          "description": "Pile of meat",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbd9caaa9afa",
+          "type": "default",
+          "loc": [
+            -1.23046875,
+            3.36328125
+          ],
+          "layer": "%5B%5BCaveEntrence.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.76875,
+            0.34615384615384615
+          ],
+          "description": "Box of Dynamite",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b97a396a6a6a",
+          "type": "default",
+          "loc": [
+            -2.2286376953125,
+            3.0458984375
+          ],
+          "layer": "%5B%5BCaveEntrence.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tower - 15 ft up",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18c95a7a48f8",
+          "type": "default",
+          "loc": [
+            -1.77734375,
+            3.91015625
+          ],
+          "layer": "%5B%5BCaveEntrence.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.89375,
+            0.5
+          ],
+          "description": "Sleeping tents for Bloodgolds",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Wrath of Ul'Tirex/01 - Bloodgold Revenge/Sessions/Session 11.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#ff4242",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": false,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "true ",
+    "defaultZoom": "5 ",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px ",
+    "image": "[[CaveEntrence.png]] ",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[CaveEntrence.png]] "
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      ""
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": "10 ",
+    "minZoom": "1 ",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": "1 ",
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map ",
+    "lat": "50 ",
+    "long": "50 ",
+    "unit": "meters ",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

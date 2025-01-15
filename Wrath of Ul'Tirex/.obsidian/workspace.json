@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "7b6538aeab099d2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "36084172dc9936a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7172d63a056626c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Bloodgold Revenge/Factions/Bloodgolds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bloodgolds"
+            }
+          },
+          {
+            "id": "a8f58a2216a49546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bloodgold Revenge/NPCs/Roland Whitehorn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roland Whitehorn"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00e6bdfe917cba1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71ed03f25a50ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8782d4feeb52ce93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "983be4883655d32a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "445b29c52af704f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c31c9eefdd5fce83",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5cb6e25cb2471f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273b2933e366d57b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for test"
+            }
+          },
+          {
+            "id": "f8d72b1f59042c00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DnD/Bloodgold Revenge/Factions/Bloodgolds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bloodgolds"
+            }
+          },
+          {
+            "id": "2ce4088e4f031e78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8f3096a454b6d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test"
+            }
+          },
+          {
+            "id": "7e436e9b621a8f0c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a8f58a2216a49546",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "test.md",
+    "Bloodgold Revenge/Sessions/Session 8.md",
+    "Bloodgold Revenge/Sessions/Session 7.md",
+    "Bloodgold Revenge/Bloodgold Revenge.md",
+    "DnD/Bloodgold Revenge/Factions/Bloodgolds.md",
+    "Party Members/Torrent.md",
+    "DnD/Bloodgold Revenge/Factions",
+    "DnD/Bloodgold Revenge",
+    "DnD",
+    "Bloodgold Revenge/Sessions",
+    "Bloodgold Revenge/Factions/Bloodgolds.md",
+    "Bloodgold Revenge/Factions",
+    "Bloodgold Revenge/Characters/Zhog the Greedy.md",
+    "Bloodgold Revenge/Characters/Torug the Beast Tamer.md",
+    "Bloodgold Revenge/Characters/Dealer.md",
+    "Eiras' Wrath",
+    "Party Members/Trenblo.md",
+    "Bloodgold Revenge/Session Notes/Session 7.md",
+    "Templates",
+    "Party Members",
+    "Bloodgold Revenge/Session Plan",
+    "Bloodgold Revenge/Session Notes",
+    "Bloodgold Revenge/Characters/Bloodgolds.md",
+    "Bloodgold Revenge/Characters/Zhog.md",
+    "Welcome.md"
+  ]
+}

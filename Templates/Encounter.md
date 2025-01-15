@@ -1,0 +1,4 @@
+# Encounter
+## Allies
+
+## Enemies
