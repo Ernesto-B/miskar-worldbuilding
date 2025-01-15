@@ -55,9 +55,9 @@ aliases:
 * The Aetheris Isles' political structure values cooperation and balance, mirroring the harmony maintained between the islands, the [[Ascension Zone]], and their survival amidst the perilous seas.
 
 ### Guilds
-* The [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Ascendant Guild]]
+* The [[Ascendant Guild]]
 * Adventurer’s Guild
-* [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Airship Guild]]
+* [[Airship Guild]]
 
 ### Social/Economic/Political Hierarchy (Class Structure)
 * Monster Contracts: The adventurer’s guilds play a vital role in the economy. High-paying contracts for monster-hunting provide a rare opportunity for lower-class individuals to ascend the social ladder.
@@ -67,8 +67,8 @@ aliases:
 * Lowborns: Laborers, miners, and farmers struggling to rise in society.
 
 ### Political/Social Ideology and Culture
-* Stormhold Martial Festival: A martial festival in the city of Stormhold (on [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Vorynth Island]]) featuring combat tournaments, honoring the island’s warrior tradition.
-* Triune Harmony Festival: Celebrated when the Sea, Sky, and Stone Pillars are believed to align (symbolically or astrologically). Each city organizes a day of rituals, culminating in shared feasts and performances that bring the islands together. During the festival, the [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Floatstone Towers]] are adorned with lights and banners representing [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/The Three Pillars]]. Special prayers are conducted to honor their unity.
+* Stormhold Martial Festival: A martial festival in the city of Stormhold (on [[Vorynth Island]]) featuring combat tournaments, honoring the island’s warrior tradition.
+* Triune Harmony Festival: Celebrated when the Sea, Sky, and Stone Pillars are believed to align (symbolically or astrologically). Each city organizes a day of rituals, culminating in shared feasts and performances that bring the islands together. During the festival, the [[Floatstone Towers]] are adorned with lights and banners representing [[The Three Pillars]]. Special prayers are conducted to honor their unity.
 
 ### Trade and Economics
 * Cultural Exports: Despite their relative isolation, the archipelago is famous for exporting advanced navigation instruments, floatstone-powered curiosities, and rare sky-farmed spices and fruits.
@@ -79,7 +79,7 @@ aliases:
 - They speak the standard language of humans of [[Kingdom of Drakonia|Drakonia]].
 
 ### Religion
-* Worship of [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/The Three Pillars]].
+* Worship of [[The Three Pillars]].
 * Are accepting of other religions, but do not tolerate disrespect to The Three Pillars.
 
 ### Magic
@@ -108,8 +108,8 @@ aliases:
 
 ### Military, Secret Services, Conflict
 * Tensions with the South: Southern countries have spies within the archipelago, hoping to discover its technological secrets, as well as safe sea-routes to reach the islands in the event of an invasion. Meanwhile, the archipelago employs agents to sabotage southern expansion, and obtain knowledge about magic and technology.
-* [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Ascendant Wardens]]
-* [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Sky Guard Corps]]
+* [[Ascendant Wardens]]
+* [[Sky Guard Corps]]
 * Floating Bastions: Drifting defensive blimps encircle the towers and cities, outfitted with ballistae and small cannons. They are manned by guards and equipped with emergency evacuation systems using floatstone parachutes.
 * Jagged reefs and rocks around Dremscar have been reinforced with hidden spikes and floating buoys that release explosive charges when tampered with.
 * Guarded ports feature underwater cages made of floatstone-laced steel to deter sea monsters. Due to the astronomical value of floatstone, this method is not used to make sea-routes between islands.
@@ -135,10 +135,10 @@ aliases:
 ### Adventuring Hooks
 * The Jagged Isles: Adventurers are tasked with exploring the jagged, rocky islands to uncover why some of them appear to glow in the night. They encounter remnants of a dark magic long sealed away.
 * Pirate Raids: Pirates, emboldened by southern mercenaries, begin to plunder trade routes. Some pirates claim to know of secret safe waters ignored by sea monsters.
-* Sky Farm Crisis: A sudden failure in the [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Floatstone Towers]] disrupts farming operations. The party must investigate, navigating sabotage attempts and wild rumors of cursed stones of souls. 
-* [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Underground Labyrinth]] of Stormhold: A dungeon break releases ancient terrors from the labyrinth beneath Stormhold. Adventurers must venture into the labyrinth to stop the monsters before they destroy the city.
-* The Floatstone Crisis: A [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/floatstone]] mine on [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Kaelyth Island]] unexpectedly collapses, creating panic. Southern nations offer “aid,” which is secretly an attempt to infiltrate the purification process.
+* Sky Farm Crisis: A sudden failure in the [[Floatstone Towers]] disrupts farming operations. The party must investigate, navigating sabotage attempts and wild rumors of cursed stones of souls. 
+* [[Underground Labyrinth]] of Stormhold: A dungeon break releases ancient terrors from the labyrinth beneath Stormhold. Adventurers must venture into the labyrinth to stop the monsters before they destroy the city.
+* The Floatstone Crisis: A [[floatstone]] mine on [[Kaelyth Island]] unexpectedly collapses, creating panic. Southern nations offer “aid,” which is secretly an attempt to infiltrate the purification process.
 * Sky Pirate Coalition: Pirates unite under a charismatic leader, targeting key airship routes. The adventurers are tasked with infiltrating the coalition to dismantle it from within.
-* Field Disturbance: The [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Ascension Zone]] around one of the towers begins to fluctuate, causing floating islands and anything airborne to drift dangerously. The party are hired to investigate, uncovering an evil plot running much deeper than they could imagine.
+* Field Disturbance: The [[Ascension Zone]] around one of the towers begins to fluctuate, causing floating islands and anything airborne to drift dangerously. The party are hired to investigate, uncovering an evil plot running much deeper than they could imagine.
 * Bandits in [[Westreach Port]]: An organization of bandits stealing from merchants/traders passing through.
 * Going into The Shattered Deep Maelstrom.

@@ -10,7 +10,7 @@ aliases:
 - Although it is a dangerous sea, merchants, travelers, and adventurers have seemingly discovered safer passage from the Southern Continent to [[Westreach Port]]
 
 # Location
-- The sea on the South and South-West of the [[00 - Aetheris Isles|Aetheris Isles]]. Extends to right below [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Vorynth Island]]. 
+- The sea on the South and South-West of the [[00 - Aetheris Isles|Aetheris Isles]]. Extends to right below [[Vorynth Island]]. 
 
 # Plot
 

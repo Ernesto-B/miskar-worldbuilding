@@ -19,12 +19,12 @@ aliases:
 
 
 # Key Locations
-* [[Stormhold]]: A fortress-like city, home of the [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Underground Labyrinth]].
+* [[Stormhold]]: A fortress-like city, home of the [[Underground Labyrinth]].
 * [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/The Three Pillars#The Sea Pillar|Sea Pillar]] Temple, the "Keeper of Depths". 
 * [[Gale Sanctum]], the location where the Stormhold Martial Festival occurs. 
 * South Port: the only safe access from [[Westreach Port]] to the archipelago, and from the archipelago to the outside world.
-* North Port: A quieter port catering to travelers making their way to [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Dremscar Island]] through The Pillar’s Spine. It serves as a waypoint for adventurers and scholars, offering fewer luxuries but plenty of stories about the Spine’s dangers.
+* North Port: A quieter port catering to travelers making their way to [[Dremscar Island]] through The Pillar’s Spine. It serves as a waypoint for adventurers and scholars, offering fewer luxuries but plenty of stories about the Spine’s dangers.
 
 # History
-- The Labyrinth's Curse: It is said that the [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Underground Labyrinth]] was once a [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/floatstone]] mine abandoned after the collapse of a major section. Many believe the mine was cursed by the [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/The Three Pillars#The Sea Pillar|Sea Pillar]] due to greed, causing it to spawn the monsters that now roam its depths.
+- The Labyrinth's Curse: It is said that the [[Underground Labyrinth]] was once a [[floatstone]] mine abandoned after the collapse of a major section. Many believe the mine was cursed by the [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/The Three Pillars#The Sea Pillar|Sea Pillar]] due to greed, causing it to spawn the monsters that now roam its depths.
 - The Black Tides Legend: Vorynth sailors tell tales of a ghostly ship that appears during the worst storms, its crew cursed to wander the [[Black Tides]] forever. Sightings are considered both a warning and a blessing, as survivors often return with tales of hidden treasures.
