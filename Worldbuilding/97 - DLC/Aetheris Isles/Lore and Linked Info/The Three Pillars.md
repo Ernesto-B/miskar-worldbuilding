@@ -7,9 +7,9 @@ aliases:
 ---
 # Lore
 The Three Pillars represent the foundation of life in the [[00 - Aetheris Isles|Aetheris Isles]]. Each Pillar is tied to an essential element of the Isles' survival—Sea, Sky, and Stone—and is worshipped through distinct practices and rituals. Each island in the archipelago has a temple to one of these deities, emphasizing their respective contributions to survival:
-- On [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Kaelyth Island]]: Sky Pillar, the "Bringer of Winds"
-- On [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Vorynth Island]]: Sea Pillar, the "Keeper of Depths"
-- On [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Dremscar Island]]: Stone Pillar, the "Eternal Foundation"
+- On [[Kaelyth Island]]: Sky Pillar, the "Bringer of Winds"
+- On [[Vorynth Island]]: Sea Pillar, the "Keeper of Depths"
+- On [[Dremscar Island]]: Stone Pillar, the "Eternal Foundation"
 
 ### The Sky Pillar - Kaelyth Island
 * The Sky Pillar embodies freedom, innovation, and protection. It is believed to guide the winds, crucial for airships, gliders, and crop growth on sky farms.
@@ -21,7 +21,7 @@ The Three Pillars represent the foundation of life in the [[00 - Aetheris Isles|
 ### The Sea Pillar
 * The Sea Pillar governs the oceans surrounding the Isles, symbolizing the mysteries of the deep, adaptability, and resilience. It is seen as a dual force: a provider (offering fish and trade routes) and a destroyer (unleashing deadly monsters and storms).
 * Symbol: A spiraling wave encircling a single eye, representing the all-seeing depths.
-* **Temple of the Depths**: Located on [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Vorynth Island]], the temple is built partially underwater. Its main chamber is a vast, dome-like structure with glass panels offering views of the ocean depths.
+* **Temple of the Depths**: Located on [[Vorynth Island]], the temple is built partially underwater. Its main chamber is a vast, dome-like structure with glass panels offering views of the ocean depths.
 - Visitors offer shells, salt, and miniature floatstone carvings to honor the sea’s bounty and protection.
 - Drowning of Fears: Participants write their fears or sins on palm leaves and release them into the water during ceremonies. If the offering is accepted (it sinks quickly), the Sea Pillar has forgiven them.
 - Storm's Trial: An annual event where aspiring sailors or adventurers brave a treacherous stretch of sea to prove their worth to the Keeper of Depths.

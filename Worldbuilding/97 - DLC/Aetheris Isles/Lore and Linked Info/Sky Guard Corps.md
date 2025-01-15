@@ -7,7 +7,7 @@ aliases:
 alingment: 
 ---
 # Summary
-* Elite units of adventurers and mercenaries from the [[00 - Aetheris Isles|Aetheris Isles]] patrol the skies on their [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/floatstone]] gliders. They use harpoons, magic-resistant nets, and signal flares to deter attacks. Members of the Sky Guard are renowned for their daring and are often romanticized in local tales. Their elite training makes them effective in aerial combat.
+* Elite units of adventurers and mercenaries from the [[00 - Aetheris Isles|Aetheris Isles]] patrol the skies on their [[floatstone]] gliders. They use harpoons, magic-resistant nets, and signal flares to deter attacks. Members of the Sky Guard are renowned for their daring and are often romanticized in local tales. Their elite training makes them effective in aerial combat.
 
 # Leadership
 
