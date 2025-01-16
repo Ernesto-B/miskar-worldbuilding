@@ -29,8 +29,9 @@ aliases:
 
 # Detailed Notes
 ### Government Structure
-* The coast is a democratically run nation with a chair made up of 10 people. Of the 10, 5 come from the uppercity, where each riding is from a different district, and 5 from the undercity, where each riding is a separate floor.
+* The coast is a democratically run nation with a chair made up of 10 people. Of the 10, 5 come from [[Cascadea]], where each candidate is from a different [[Drift]], and 5 from [[Stonefall]], where each candidate is from a separate [[Hollow]].
 * Due of the diversity of the chair, internal conflict arises because of opposing interests and goals.
+* Internal conflicts leads to negligence in both cities, which results in crime lords arising in the lower [[Hollow|Hollows]]
 
 ### Guilds
 * 
