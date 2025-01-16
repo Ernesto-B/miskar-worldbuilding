@@ -22,13 +22,13 @@ aliases:
 # Other Key Locations
 - Caves
 - [[Port Phyrella]]
-- Plains
+- [[Iyresan Plains]]
 - Fishery Towns
 - [[Cascadea]]
 - [[Stonefall]]
 - [[Cindral Mountains]]
 - [[Iyresan Bay]]
-- 
+- Ruins
 
 # History
 
