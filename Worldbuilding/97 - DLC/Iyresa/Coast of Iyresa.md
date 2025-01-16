@@ -21,11 +21,14 @@ aliases:
 
 # Other Key Locations
 - Caves
-- Port
+- [[Port Phyrella]]
 - Plains
 - Fishery Towns
 - [[Cascadea]]
 - [[Stonefall]]
+- [[Cindral Mountains]]
+- [[Iyresan Bay]]
+- 
 
 # History
 
