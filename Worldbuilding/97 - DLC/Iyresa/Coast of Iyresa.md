@@ -6,7 +6,10 @@ type: region or country
 aliases: 
 ---
 # Description
-- The coast of Iyresa is split into the 
+- The Coast of Iyresa is split into 2 major parts: the upper city, known as [[Cascadea]], and the lower city, known as [[Stonefall]]. 
+- To enter the country, there are pathways coming from the mountains in the southwest, as well as sea ports for ships coming in from the northeast.
+- Between the main cities and the mountains, Iyresa is made up of abundant plains which are home to medium-skilled monsters.
+- To the west are 
 
 # Geographical Location and Features
 
