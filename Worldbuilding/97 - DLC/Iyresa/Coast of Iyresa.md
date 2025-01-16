@@ -32,13 +32,15 @@ aliases:
 - Shrine
 
 # History
-- Iyresa was originally home to the [[Beast People]], who inhabited every inch of land right of the [[Cindral Mountains]].
+- Iyresa was originally home to the [[Beast People]], who inhabited every inch of land east of the [[Cindral Mountains]].
 - 62,000 years ago, a meteor hit the northern part of the land, sending the [[Beast People]] southeast towards the forest.
 - The meteor blast shot out [[floatstone]] which landed in the [[Aetheris Isles]], alerting the inhabiting humans of the the power the stone had. As a result of the new discovery and power of the stone, the humans ventured down across [[Black Tides]] to see the aftermath of the blast to see if the could salvage even more magical materials. 
-- ==Upon arrival, humans imitated powers from the stone and learned/evolved their own magic, creating a new population of humans in the north==.
-- Eventually, the [[Beast People]] returned to rebuild civilization but were faced with foreign beings from the [[Aetheris Isles]], resulting in tensions which led to a territorial dispute. 
-- This dispute was violent, as the [[ be]]
-
+- ==Upon arrival, humans imitated powers from the stone and learned/evolved their own magic. Some people from the [[Aetheris Isles]] saw these new magical phenomena as blasphemous as it went against their religion, and others wanted to keep exploring these abilities and make it apart of their day-to-day lives; hence, this created a new population of humans in the north of the continent, whereas the non-believers travelled back to the isles.==
+- Eventually, the [[Beast People]] returned to rebuild civilization but were faced with foreign humans from the [[Aetheris Isles]], resulting in tensions which led to a territorial dispute. 
+- This dispute was violent, as the [[Beast People]] were abundant in number. However, the humans had managed to hone their magical abilities enough to be able to fend off a large amount of opponents with both defensive and offensive spellcasting.
+- A shrine was built southeast of the crater on an island. This shrine was meant for [[Beast People]] to come and pray when their loved ones were out fighting. 
+- The humans, knowing they were outnumbered, and the [[Beast People]], knowing they could not match the humans' offensive powers, eventually decided to call a ceasefire. This ceasefire lasted for a year before coming back together and declaring a truce, where both beings could co-exist. 
+- To this day, the truce remains and the beings co-exist peacefully with each other. 
 
 
 # Detailed Notes
