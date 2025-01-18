@@ -59,8 +59,9 @@ aliases:
 * 
 
 ### Trade and Economics
-* The main industries of the Coast is trading and tourism/traveling
-* Other industries include: property (especially on [[Cascadea]] and the first [[Hollow]]), 
+* The main industries of the Coast is trading and tourism/traveling, and entertainment.
+* Other industries include: property (especially on [[Cascadea]] and the first [[Hollow]]), mining, and purchases on any mosaic of magic items, alchemy and knowledge, and magic education of Illusion and Healing. 
+* Export ores, and magic tools
 
 ### Language and Naming
 * Standard Iyresan
