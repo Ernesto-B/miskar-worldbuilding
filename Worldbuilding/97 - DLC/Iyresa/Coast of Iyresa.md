@@ -74,6 +74,7 @@ aliases:
 * Export ores, and magic tools
 * Port Phyrella: One of the busiest ports in the world, handling everything from massive merchant ships to smaller smuggling vessels.
 * Stonefall's Black Markets: A hub for forbidden goods—stolen relics, counterfeit potions, and illicit substances.
+* Some merchants use illusion spells to make their wares more appealing.
 
 ### Language and Naming
 * Standard Iyresan
@@ -130,3 +131,5 @@ aliases:
 ### Adventuring Hooks
 * Forbidden Depths of Cascadea: The pit at Cascadea's center is off-limits, with rumors of ancient horrors or treasures lying beneath the lake.
 * Hidden Caverns in the Cindral Mountains: Some believe these caves house runic teleportation gates to other realms, guarded by elemental beings.
+* Trade Rivalry: A wealthy Cascadean merchant hires adventurers to sabotage a rising rival in Stonefall, igniting tension between the cities.
+* Monsters in the Plains: Increasing monster attacks threaten Iyresa’s trade routes, hinting at a deeper disturbance in the land.
