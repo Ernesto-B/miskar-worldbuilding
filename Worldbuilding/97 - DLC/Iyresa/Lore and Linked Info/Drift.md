@@ -5,11 +5,10 @@ arc:
 type: location
 aliases: 
 ---
-# Summary
-- A Dirft
 
 # Description
-
+- A Drift is equivalent to a district, which is separated and enclosed by waterfalls and waterways surrounding the area. 
+- There are 5 drifts, split into the entertainment, market & trading, scholar, government, and ==energy==.
 
 # Location
 
