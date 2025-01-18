@@ -6,6 +6,7 @@ type: region or country
 aliases: 
 ---
 # Description
+- The Coast of Iyresa is a country bordering the [[Black Tides]] on its north and eastern shore, and boasts the . The largest cities in Iyresa is [[Cascadea]] and [[Stonefall]]. Cascadea sits atop a gigantic floating landmass that was suspended in the air 62,000 years ago for some unknown reason. While Cascadea boasts 
 - The Coast of Iyresa is split into 2 major parts: the upper city, known as [[Cascadea]], and the lower city, known as [[Stonefall]]. 
 - To enter the country, there are pathways coming from the mountains in the southwest, as well as sea ports for ships coming in from the northeast.
 - Between the main cities and the mountains, Iyresa is made up of abundant plains which are home to medium-skilled [[monsters]].
@@ -15,7 +16,7 @@ aliases:
 - [[Cindral Mountains]]: jagged peaks acting as a barrier to the hot air coming from the South-west. 
 
 # Geographical Location and Features
-- Drought?
+- Southwest of the [[Aetheris Isles]], across the [[Black Tides]].
 
 # Lore
 
