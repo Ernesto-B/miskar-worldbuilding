@@ -8,15 +8,13 @@ aliases:
 # Description
 - The Coast of Iyresa is a country bordering the [[Black Tides]] on its north and eastern shore, and boasts the status of being the largest trade hub of the world. The largest cities in Iyresa are [[Cascadea]] and [[Stonefall]]. 
 - Cascadea sits atop a gigantic floating landmass that was suspended in the air 62,000 years ago for some unknown reason. While Cascadea is widely regarded as being the undisputed king of entertainment and pleasure cities, as well as hosting the one of the most luxurious auction facilities in the world, it is no exaggeration to say only the wealthiest of the wealthy and high-profile merchants or adventurers can hope to stay.
-- The city of Cascadea was built slightly above the surface of a shallow lake on the floating landmass, and 
+- The city of Cascadea was built slightly above the surface of a shallow lake on the floating landmass, and is densely constructed with East-asian (china/japan) architecture, with plenty of orange lanterns, tatami, sliding doors, pagoda-style roofing, and small arching bridges to cross between the lake's water channels. Navigation through the city is done through either walking or via East-Asian canoe/boat. The city is split into 4 different districts, called Drifts. As the center of the lake is a pit where the water from the lake falls into, the city itself was built starting on the edges of the lake, leaving about a 500m space from the pit. 
 - On the other hand, the city of Stonefall, which sits in the crater left behind by the violent dislodging of the floating landmass, enjoys only the second-hand benefits of Cascadea: medium quality goods and services, as well as more crime and disorganization. Split into 5 different sections of the city (denoted by elevation) called Hollows, the higher Hollows enjoy sunlight and more organization and regulations, while lower hollows devolve into a survival of the fittest and chaotic livelihood with black markets and unethical or illegal activities. The different hollows are separated by (something??), and entrances from one Hollow to another are heavily guarded. The only way to move from one Hollow to another is via (something??).
-- The Coast of Iyresa is split into 2 major parts: the upper city, known as [[Cascadea]], and the lower city, known as [[Stonefall]]. 
-- To enter the country, there are pathways coming from the mountains in the southwest, as well as sea ports for ships coming in from the northeast.
-- Between the main cities and the mountains, Iyresa is made up of abundant plains which are home to medium-skilled [[monsters]].
-- To the west are numerous caves which are host to both precious ores and ferocious beasts that are no easy feat.
-- The Coast is a central hub which is host to many festivals and markets where lots of trading occurs. 
-- Iyresan Bay: an underwater plateau of shallow depth which was home to beastfolk cities and towns of ages past destroyed in wars. The bay is home to a myriad of fish who make their homes in the illuminated waters. 
-- [[Cindral Mountains]]: jagged peaks acting as a barrier to the hot air coming from the South-west. 
+- To enter the country, there are pathways coming from the [[Cindral Mountains]] in the southwest, as well as [[Port Phyrella]]: one of the largest sea ports for ships coming in from anywhere in the [[Black Tides]]. 
+- Between the main cities and the mountains, Iyresa is made up of abundant plains which are home to B-D rank [[monsters]].
+- To the west, in the [[Cindral Mountains]], there are numerous caves which are host to both precious ores and ferocious beasts.
+- Due to the central and highly visited nature of Iyresa, many festivals take place in the region, in celebration of the mosaic of cultures and peoples. 
+- [[Iyresan Bay]]: an underwater plateau of shallow depth which was home to beastfolk cities and towns of ages past destroyed in wars. The bay is home to a myriad of fish who make their homes in the illuminated waters.
 
 # Geographical Location and Features
 - Southwest of the [[Aetheris Isles]], across the [[Black Tides]].
