@@ -5,6 +5,7 @@ arc:
 type: region or country
 aliases: 
 ---
+![[Coast of Iyresa V1.jpg]]
 # Description
 - The Coast of Iyresa is a country bordering the [[Black Tides]] on its north and eastern shore, and boasts the status of being the largest trade hub of the world. The largest cities in Iyresa are [[Cascadea]] and [[Stonefall]]. 
 - Cascadea sits atop a gigantic floating landmass that was suspended in the air 62,000 years ago for some unknown reason. While Cascadea is widely regarded as being the undisputed king of entertainment and pleasure cities, as well as hosting the one of the most luxurious auction facilities in the world, it is no exaggeration to say only the wealthiest of the wealthy and high-profile merchants or adventurers can hope to stay.
@@ -55,21 +56,27 @@ aliases:
 * 
 
 ### Social/Economic/Political Hierarchy (Class Structure)
-* 
+- Cascadean Elite: Wealthy merchants, adventurers, and entertainers. The rich enjoy lavish lifestyles with access to private auctions, feasts, and the best luxuries.
+- Stonefall Upper Hollows: Artisans, traders, and guild members benefit from proximity to Cascadea but lack its opulence.
+- Stonefall Lower Hollows: Laborers, petty criminals, and displaced refugees live in squalor, where survival outweighs morality.
+- Rural Plainsfolk: Farmers, hunters, and small-town traders. Though largely self-sufficient, they live in fear of monster attacks.
 
 ### Political/Social Ideology and Culture
-* 
+* Iyresa's society values wealth, ingenuity, and adaptability over tradition or lineage. This capitalist ethos makes it a beacon for traders and adventurers but fosters stark inequalities. Its political neutrality allows it to serve as a diplomatic meeting point for rival nations, though behind closed doors, power is wielded by the wealthy and ruthless.
 
 ### Trade and Economics
 * The main industries of the Coast is trading and tourism/traveling, and entertainment.
 * Other industries include: property (especially on [[Cascadea]] and the first [[Hollow]]), mining, and purchases on any mosaic of magic items, alchemy and knowledge, and magic education of Illusion and Healing. 
 * Export ores, and magic tools
+* Port Phyrella: One of the busiest ports in the world, handling everything from massive merchant ships to smaller smuggling vessels.
+* Stonefall's Black Markets: A hub for forbidden goods—stolen relics, counterfeit potions, and illicit substances.
 
 ### Language and Naming
 * Standard Iyresan
 * ==Naming==
 
 ### Religion
+* The Hollow Flame: A darker faith among Stonefall's lower Hollows, emphasizing survival, ambition, and power through sacrifice. Shrines to the Hollow Flame burn deep within the city's labyrinthine alleys
 * 
 
 ### Magic/Alchemy
