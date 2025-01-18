@@ -6,7 +6,7 @@ type: region or country
 aliases: 
 ---
 # Description
-
+- Stonefall is a city that is buried within the depths of a crater.
 
 # Geographical Location and Features
 
