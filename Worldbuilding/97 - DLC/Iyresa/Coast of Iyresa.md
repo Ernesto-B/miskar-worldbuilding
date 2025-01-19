@@ -45,7 +45,7 @@ aliases:
 - The humans, knowing they were outnumbered, and the [[Beast People]], knowing they could not match the humans' offensive powers, eventually decided to call a ceasefire. This ceasefire lasted for a year before coming back together and declaring a truce, where both beings could co-exist. 
 - To this day, the truce remains and the beings co-exist peacefully with each other. 
 --- 
-- The Floating Landmass and Cascadea's Origin: The floating landmass that houses Cascadea is believed to have been suspended 62,000 years ago by an ancient and forgotten civilization. Legends suggest it was the result of a cataclysmic battle between two powerful deities, one seeking to destroy the world and another protecting it. The pit in the center of Cascadea's lake is rumored to be a remnant of the god's spear strike. Fragments of this civilization's arcane glyphs can still be found in Cascadea's undercity, which remains largely unexplored.
+- ==The Floating Landmass and Cascadea's Origin: The floating landmass that houses Cascadea is believed to have been suspended 62,000 years ago by an ancient and forgotten civilization. Legends suggest it was the result of a cataclysmic battle between two powerful deities, one seeking to destroy the world and another protecting it. The pit in the center of Cascadea's lake is rumored to be a remnant of the god's spear strike. Fragments of this civilization's arcane glyphs can still be found in Cascadea's undercity, which remains largely unexplored.==
 - Stonefall's Struggles: The crater left by the landmass's dislodging gave rise to Stonefall, a city built from the ruins of the original settlement. Its earliest inhabitants were refugees and survivors of the cataclysm, struggling to adapt to a hostile environment. The city eventually became a haven for outlaws, mercenaries, and traders seeking to profit from Cascadea's splendor, leading to its current fractured society.
 
 
@@ -63,7 +63,7 @@ aliases:
 - Cascadean Elite: Wealthy merchants, adventurers, and entertainers. The rich enjoy lavish lifestyles with access to private auctions, feasts, and the best luxuries.
 - Stonefall Upper Hollows: Artisans, traders, and guild members benefit from proximity to Cascadea but lack its opulence.
 - Stonefall Lower Hollows: Laborers, petty criminals, and displaced refugees live in squalor, where survival outweighs morality.
-- Rural Plainsfolk: Farmers, hunters, and small-town traders. Though largely self-sufficient, they live in fear of monster attacks.
+- Rural Plainsfolk: Farmers, hunters, and small-town traders. Though largely self-sufficient, they live ==in fear of monster attacks.==
 
 ### Political/Social Ideology and Culture
 * Iyresa's society values wealth, ingenuity, and adaptability over tradition or lineage. This capitalist ethos makes it a beacon for traders and adventurers but fosters stark inequalities. Its political neutrality allows it to serve as a diplomatic meeting point for rival nations, though behind closed doors, power is wielded by the wealthy and ruthless.
