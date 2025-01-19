@@ -22,4 +22,5 @@ aliases:
 
 
 ### Adventuring Hooks
-- Suspicious Smuggling Operations: Smugglers from other nations seek to sell banned items, relics, and substances, which leads to 
+- Suspicious Smuggling Operations: Smugglers from other nations seek to sell banned items, relics, and substances, which leads to disruptions in the cities of [[Stonefall]] and [[Cascadea]]. However, this operation seems to be planned by another nation to be able to take advantage of the [[Coast of Iyresa]] while it is dealing with this internal crises. 
+- 
