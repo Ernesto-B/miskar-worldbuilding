@@ -6,7 +6,8 @@ type: location
 aliases: 
 ---
 # Description
-- The Iyresan Bay in the is a stunning expanse of shallow, clear waters located in the [[Coast of Iyresa]]. Known for its tranquil beauty and rich underwater life, the Bay is a vital source of sustenance and lore for the surrounding region. Villages and settlements on the coasts of it often use the Bay to fish. However, the ruins of an ancient city and shipwrecks hidden in its waters hint at a more complex history.
+- The Iyresan Bay in the is a stunning expanse of shallow, clear waters located in the [[Coast of Iyresa]]. Known for its tranquil beauty and rich underwater life, the Bay is a vital source of sustenance and lore for the surrounding region. However, the ruins of an ancient city and shipwrecks hidden in its waters hint at a more complex history.
+- Villages and settlements bordering the Bay like [[Baytown]] are able to fish regularly to sustain their food stores. 
 - The Bay’s consistently shallow waters make it easy to wade through, with fish and coral visible beneath the surface. However, the presence of shipwrecks scattered across the Bay raises questions about its history, as it suggests the waters were once deep enough to support larger vessels.
 
 # Location
