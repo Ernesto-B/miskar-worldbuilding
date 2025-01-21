@@ -49,13 +49,13 @@ aliases:
 - Stonefall's Struggles: The crater left by the landmass's dislodging gave rise to Stonefall, a city built from the ruins of the original settlement. Its earliest inhabitants were refugees and survivors of the cataclysm, struggling to adapt to a hostile environment. The city eventually became a haven for outlaws, mercenaries, and traders seeking to profit from Cascadea's splendor, leading to its current fractured society.
 
 # Detailed Notes
-### ==Government Structure==
+### Government Structure
 * The coast is a democratically run nation with a chair made up of 10 people. Of the 10, 5 come from [[Cascadea]], where each candidate is from a different [[Drift]], and 5 from [[Stonefall]], where each candidate is from a separate [[Hollow]].
 * Due of the diversity of the chair, internal conflict arises because of opposing interests and goals.
 * Internal conflicts leads to negligence in both cities, which results in crime lords arising in the lower [[Hollow|Hollows]]
 
 ### Guilds
-* [[The Gilded Compass]]: A prestigious merchant guild headquartered in Cascadea, controlling trade routes across the Black Tides and offering high-class auctions of rare artifacts, magical items, and exotic goods.
+* [[The Gilded Compass]]
 * The [[Black Basin Syndicate]]
 * [[Adventurer's Guild]]
 
@@ -63,7 +63,7 @@ aliases:
 - Cascadean Elite: Wealthy merchants, adventurers, and entertainers. The rich enjoy lavish lifestyles with access to private auctions, feasts, and the best luxuries.
 - Stonefall Upper Hollows: Artisans, traders, and guild members benefit from proximity to Cascadea but lack its opulence.
 - Stonefall Lower Hollows: Laborers, petty criminals, and displaced refugees live in squalor, where survival outweighs morality.
-- Rural Plainsfolk: Farmers, hunters, and small-town traders. Though largely self-sufficient, they live ==in fear of monster attacks.==
+- Rural Plainsfolk: Farmers, hunters, and small-town traders. Largely self-sufficient.
 
 ### Political/Social Ideology and Culture
 * Iyresa's society values wealth, ingenuity, and adaptability over tradition or lineage. This capitalist ethos makes it a beacon for traders and adventurers but fosters stark inequalities. Its political neutrality allows it to serve as a diplomatic meeting point for rival nations, though behind closed doors, power is wielded by the wealthy and ruthless.
@@ -81,7 +81,7 @@ aliases:
 * ==Naming==
 
 ### Religion
-* [[The Hollow Flame]]: A darker faith among Stonefall's lower Hollows, emphasizing survival, ambition, and power through sacrifice. Shrines to the Hollow Flame burn deep within the city's labyrinthine alleys
+* [[The Hollow Flame]]
 * [[The Three Pillars]]??
 
 ### Magic/Alchemy
