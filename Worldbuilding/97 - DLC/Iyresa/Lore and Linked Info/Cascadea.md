@@ -6,9 +6,8 @@ type: region or country
 aliases: 
 ---
 # Description
-- Cascadea - a floating island - is the upper city in the country of [[Coast of Iyresa|Iyresa]].
-- The city is surrounded by a magnetic field that came to be after a meteor struck the land. The magnetic field has benefitted the city in 2 ways: It wards off monsters, as well as allows individuals to travel up and down the island's inverse waterfalls.
-- 
+- Cascadea is the capital city in the [[Coast of Iyresa]] built atop a colossal floating landmass suspended 62,000 years ago for reasons lost to history. Known as the King of Entertainment and Luxury, it is the pinnacle of culture, commerce, and hedonism, accessible only to the world’s wealthiest, most influential merchants, adventurers, and scholars. Its architecture draws inspiration from East-Asian designs, with pagoda-style roofs, orange lanterns casting warm light, tatami mats, and arching wooden bridges spanning the shallow lake that covers the landmass.
+- The city is divided into five [[Drift|Drifts]], each serving a distinct purpose and collectively maintaining the harmony and functionality of Cascadea. Water spills over the island’s edges through five waterfalls, flows inversely back up to the lake due to a mysterious central force, and drains through a medium-sized pit in the lake’s center called the ==Heartfall==, creating an endless cycle.
 
 # Geographical Location and Features
 - Cascadea is a floating island. The only way to enter the city is from the bottom of the island and utilizing special transport methods that take advantage of waterfalls that flow upwards.
@@ -23,20 +22,20 @@ aliases:
 	- **The Golden Drift** (Commerce and Trade): The city’s bustling marketplace and trade hub, where high-end goods, luxury items, and rare magical artifacts are bought and sold. Includes the **Celestial Auction Hall**, where the wealthiest merchants and adventurers bid on treasures from across the world.
 	- **The Velvet Drift** (Pleasure and Entertainment): Renowned for its theaters, bathhouses, gambling halls, and tea houses. The Velvet Drift is the beating heart of Cascadea’s fame as a city of pleasure. Features the **Grand Pavilion**, an enormous open-air theater hosting magical performances, concerts, and plays.
 	- **The Silver Drift** (Governance and Administration): Houses Cascadea’s government buildings, including the **Council Chambers**, where the city’s ==Ethereal Court== deliberates and makes decisions. Includes embassies for other nations, as Cascadea serves as a neutral ground for diplomacy. Administrative offices oversee taxation, infrastructure, and the maintenance of the water cycle system.
-	- **The Azure Drift** (Culture and Religion): Dedicated to preserving Cascadea’s cultural and spiritual identity, the Azure Drift is home to grand libraries, galleries, and the **Temple of the Flowing Cycle**, which honors the mysterious force that powers the floating landmass. Scholars and historians work tirelessly here to study the glyphs and ruins scattered across the landmass.
-	- **The Obsidian Drift** (Logistics and Infrastructure): Serves as the backbone of Cascadea’s functionality, managing waste disposal, water flow, and supplies. Includes the **Waterspire Foundry**, where enchanted tools and materials are crafted to maintain the city’s systems. While not glamorous, the Obsidian Drift is essential to the city’s survival, and its workers are respected for their vital contributions.
+	- **The Spirit Drift** (Culture and Religion): Dedicated to preserving Cascadea’s cultural and spiritual identity, the Azure Drift is home to grand libraries, galleries, and the **Temple of the Flowing Cycle**, which honors the mysterious force that powers the floating landmass. Scholars and historians work tirelessly here to study the glyphs and ruins scattered across the landmass.
+	- **The Flowing Drift** (Logistics and Infrastructure): Serves as the backbone of Cascadea’s functionality, managing waste disposal, water flow, and supplies. Includes the **Waterspire Foundry**, where enchanted tools and materials are crafted to maintain the city’s systems. While not glamorous, the Obsidian Drift is essential to the city’s survival, and its workers are respected for their vital contributions.
 - The division of Drifts by purpose rather than social class fosters a sense of equality among Cascadea’s residents. Whether one works in governance, trade, or entertainment, all contribute to the city’s prosperity and share in its luxuries. This cultural unity is a source of pride for Cascadeans, setting their city apart from the stratified society of Stonefall.
+
 # History
-
-
-
+- 
 
 # Detailed Notes
 ### Government Structure
 * 
 
 ### Guilds
-* 
+* [[The Gilded Compass]]
+* [[Adventurer's Guild]]
 
 ### Social/Economic/Political Hierarchy (Class Structure)
 * 
