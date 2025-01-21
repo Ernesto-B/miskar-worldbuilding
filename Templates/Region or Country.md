@@ -20,9 +20,6 @@ aliases:
 # History
 
 
-
-
-# Detailed Notes
 ### Government Structure
 * 
 

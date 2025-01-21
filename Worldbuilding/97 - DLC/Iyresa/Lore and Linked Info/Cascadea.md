@@ -5,14 +5,13 @@ arc:
 type: region or country
 aliases: 
 ---
+![[Pasted image 20250121023251.png]]
 # Description
 - Cascadea is the capital city in the [[Coast of Iyresa]] built atop a colossal floating landmass suspended 62,000 years ago for reasons lost to history. Known as the King of Entertainment and Luxury, it is the pinnacle of culture, commerce, and hedonism, accessible only to the world’s wealthiest, most influential merchants, adventurers, and scholars. Its architecture draws inspiration from East-Asian designs, with pagoda-style roofs, orange lanterns casting warm light, tatami mats, and arching wooden bridges spanning the shallow lake that covers the landmass. Navigation is done by walking on narrow, wooden streets or using East-Asian-style canoes to traverse the lake’s waterways.
 - The city is divided into five [[Drift|Drifts]], each serving a distinct purpose and collectively maintaining the harmony and functionality of Cascadea. Water spills over the island’s edges through five waterfalls, flows inversely back up to the lake due to a mysterious central force, and drains through a medium-sized pit in the lake’s center called the ==Heartfall==, creating an endless cycle.
 
 # Geographical Location and Features
 - Cascadea is a floating island. The only way to enter the city is from the bottom of the island and utilizing special transport methods that take advantage of waterfalls that flow upwards.
-- There are 5 inverse waterfalls that are affected by Cascadea's magnetic field, dividing the city into 5 [[Drift|Drifts]], each serving a different purpose.
-- 
 
 # Lore
 
@@ -47,7 +46,18 @@ aliases:
 * 
 
 ### Trade and Economics
-* Mega trade.
+* Exotic Crafts: Cascadean artisans create goods that blend traditional craftsmanship with cutting-edge enchantments, such as floating sculptures, self-cleaning fabrics, and glowing tapestries.
+- Entertainment as a Commodity: The performers and entertainers of the Velvet Drift are world-famous, and many wealthy patrons come to Cascadea to contract exclusive shows or purchase rare musical instruments and enchanted stage effects.
+- The **Celestial Auction Hall**, located in the Golden Drift, is a prestigious venue that draws merchants, nobles, and adventurers from across the [[Black Tides]]: Items such as dragon relics, legendary weapons, and rare magical components are sold exclusively here. Only the wealthiest and most influential individuals are invited to participate, adding an aura of exclusivity that boosts its reputation. The auction is renowned for its fairness, transparency, and magically enforced contracts, ensuring buyers receive exactly what they pay for.
+- The [[Council of Drifts]] has implemented policies that make Cascadea an attractive hub for merchants and traders:
+	- Low Trade Tariffs: Merchants pay minimal taxes on high-value goods, encouraging them to use Cascadea as a primary port of trade. 
+	- Secure Transactions: All deals in Cascadea are magically bound, providing a level of security unmatched by other nations.
+	- Market Exclusivity: Cascadea offers exclusive trading rights to certain guilds, making it a critical point of access for rare goods.
+- Neutral Ground: Cascadea is a politically neutral city, making it an ideal location for rival nations to conduct trade without fear of espionage or sabotage.
+- Prestige and Glamour: Trading in Cascadea is seen as a status symbol. Merchants gain prestige simply by operating in the city, enhancing their reputations back home.
+- Cultural Draw: Festivals, auctions, and performances attract massive crowds, creating secondary markets for food, lodging, and luxury goods.
+- Mythical Aura: The mystery surrounding Cascadea’s floating landmass draws adventurers and scholars alike, who in turn bring rare goods and discoveries to trade.
+- Historical Artifacts: Cascadea is a repository for ancient knowledge and relics (held for auction), and collectors from all over the world visit to acquire pieces of history.
 
 ### Language and Naming
 * 
@@ -119,8 +129,10 @@ aliases:
 * 
 
 ### Adventuring Hooks
-* Water regulation and recycling goes wrong in the Flowing Drift. 
+* A series of mysterious accidents disrupt the city’s water system. The party must determine if this is the work of the Syndicate or a foreign power seeking to destabilize Cascadea.
 * [[Stonefall]]'s [[Black Basin Syndicate]]s plan an intricate plan to smuggle unknown precious goods from a merchant selling their wares in the Golden Drift.
 * Beastfolk or the [[Black Basin Syndicate]] attack/steal from a prestigious event in the Celestial Auction Hall.
 * A member of the [[Council of Drifts]] hires a group of escorts to seduce another council member and get rid of him.
 * Wrongly convicted of a crime, the party gets sent to prison: the Black Depths in [[Stonefall]] (the deepest, fifth Hollow).
+* The Council’s Game: A council member hires adventurers to spy on or eliminate a rival. The mission uncovers a larger conspiracy involving the Syndicate.
+* 
