@@ -6,7 +6,7 @@ type: region or country
 aliases: 
 ---
 # Description
-- Cascadea is the capital city in the [[Coast of Iyresa]] built atop a colossal floating landmass suspended 62,000 years ago for reasons lost to history. Known as the King of Entertainment and Luxury, it is the pinnacle of culture, commerce, and hedonism, accessible only to the world’s wealthiest, most influential merchants, adventurers, and scholars. Its architecture draws inspiration from East-Asian designs, with pagoda-style roofs, orange lanterns casting warm light, tatami mats, and arching wooden bridges spanning the shallow lake that covers the landmass.
+- Cascadea is the capital city in the [[Coast of Iyresa]] built atop a colossal floating landmass suspended 62,000 years ago for reasons lost to history. Known as the King of Entertainment and Luxury, it is the pinnacle of culture, commerce, and hedonism, accessible only to the world’s wealthiest, most influential merchants, adventurers, and scholars. Its architecture draws inspiration from East-Asian designs, with pagoda-style roofs, orange lanterns casting warm light, tatami mats, and arching wooden bridges spanning the shallow lake that covers the landmass. Navigation is done by walking on narrow, wooden streets or using East-Asian-style canoes to traverse the lake’s waterways.
 - The city is divided into five [[Drift|Drifts]], each serving a distinct purpose and collectively maintaining the harmony and functionality of Cascadea. Water spills over the island’s edges through five waterfalls, flows inversely back up to the lake due to a mysterious central force, and drains through a medium-sized pit in the lake’s center called the ==Heartfall==, creating an endless cycle.
 
 # Geographical Location and Features
@@ -38,7 +38,10 @@ aliases:
 * [[Adventurer's Guild]]
 
 ### Social/Economic/Political Hierarchy (Class Structure)
-* 
+* Cascadea’s society is uniquely egalitarian compared to other cities like Stonefall. The Drifts are separated by function, not wealth or status, and residents of all Drifts enjoy similar social standing.
+* Beastfolk, with their enhanced physical abilities and senses, excel in entertainment, security, and logistics. While accepted in Cascadea, they rarely reach the highest levels of influence due to their limited magical aptitude.
+* Wealth, not race, defines class in Cascadea. The rich enjoy luxurious homes in any Drift, while poorer individuals often work in the Flowing Drift or serve wealthier citizens.
+- A growing middle class includes skilled artisans, performers, and scholars, forming the backbone of the city’s vibrant culture.
 
 ### Political/Social Ideology and Culture
 * 
@@ -50,13 +53,22 @@ aliases:
 * 
 
 ### Religion
-* 
+* The dominant spiritual belief revolves around the mysterious force powering the island’s water system. The **Temple of the Flowing Cycle** serves as the center of worship and research into this phenomenon.
+- Believers view the water’s endless motion as a metaphor for life’s balance and renewal, emphasizing harmony between individuals and their environment.
 
 ### Magic
-* 
+* **Infrastructure:**
+    - Enchanted lanterns light the streets, floating platforms assist in transport, and runestones maintain the water cycle.
+- **Entertainment:**
+    - Performers use illusion magic and elemental spells to captivate audiences in the Velvet Drift.
+- **Scholarship:**
+    - Scholars in the Spirit Drift study ancient magic to uncover the secrets of Cascadea’s suspension and its ==connection to the [[Black Tides]]==.
+- **Everyday Life:**
+    - Wealthy citizens use magic to automate household tasks, while artisans employ minor enchantments to enhance their wares.
 
 ### Legal System
-* 
+* The [[Council of Drifts]] oversees high-profile cases, while minor disputes are handled by magistrates in the Silver Drift.
+- Punishments range from fines and exile to imprisonment in magical cells beneath the Flowing Drift.
 
 ### Organized Crime
 * 
@@ -93,4 +105,5 @@ aliases:
 * 
 
 ### Adventuring Hooks
-* 
+* Water regulation and recycling goes wrong in the Flowing Drift. 
+* [[Stonefall]]'s [[Black Basin Syndicate]]s plan an intrecate plan to smuggle unknown precious cargo from a 
