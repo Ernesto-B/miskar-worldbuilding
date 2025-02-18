@@ -3,7 +3,6 @@
 ## Introduction
 
 ### Elevator Pitch
-
 WorldForge is a cutting-edge platform designed to revolutionize how Dungeon Masters (DMs), players, and enthusiasts track and interact with their Dungeons & Dragons (D&D) campaigns. Centered around an interactive world map, WorldForge seamlessly integrates campaign progression, character development, and rich worldbuilding into a single, visually engaging experience. Built for extensibility and multi-campaign synchronization, it allows players to explore their adventures as a living atlas while enabling DMs to manage progression with precision. Whether you are running one campaign or building a sprawling shared universe with multiple DMs, WorldForge offers unparalleled control and immersion.
 
 ### Detailed System Overview
