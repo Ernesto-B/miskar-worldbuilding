@@ -89,7 +89,7 @@ aliases:
 * Tool Enhancement
 
 ### Legal System
-* 
+* (See [[Cascadea]] and the [[Council of Drifts]])
 
 ### Organized Crime
 * Organized crime has risen in the lower [[Hollow|Hollows]], such as smuggling, kidnapping, drug dealing, thievery, illegal use of magical items, and manslaughter.
