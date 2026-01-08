@@ -23,7 +23,7 @@ aliases:
 	- [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Kaelyth Island|Kaelyth]], [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Vorynth Island|Vorynth]], [[Worldbuilding/97 - DLC/Aetheris Isles/Lore and Linked Info/Dremscar Island|Dremscar]]
 - 3 main cities; one on each main island: 
 	- On Kaelyth Island: **Aeryndor** (center of airship technology and scholarly pursuits)
-	- On Dremscar Island: **Skystead** (the capital of Aetheris Isles, seat of governance and home to the fiercest winds. Landscape scared by strong winds)
+	- On Dremscar Island: **Skystead** (the capital of Aetheris Isles, seat of governance and home to the fiercest winds. Landscape scarred by strong winds)
 	- On Vorynth Island: [[Stormhold]] (a fortress-like city with a history of “dungeon breaks” from an [[Underground Labyrinth]])
 - The [[Floatstone Towers]], and its [[Ascension Zone]].
 - Ruins of the [[Falling Star Tower]] (see [[The War of Falling Stars]]). The ruins of the destroyed tower, located on the Northernmost island in the Isles, are said to hold secrets that could revolutionize floatstone technology—or doom the Isles. Adventurers occasionally venture there, lured by tales of treasure and forbidden knowledge.
