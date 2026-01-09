@@ -22,4 +22,5 @@
 - Young Blue Dragons seek to establish themselves as forces to be feared. Many claim ancient ruins where they might find magical paths to power. This blue dragon has cooperated with a powerful villain who had promised him followers and influence in the Isles. 
 
 ## Possible Connections to Next Arc
-- Young blue dragon retreats before being killed. Runs away to tell his father (adult blue dragon)? Or runs away and we see him dead of wounds
+- Young blue dragon retreats before being killed. Goes back "home" to his father (adult blue dragon)?
+- Dragon was slayed and the party left victorious. However, this was part of the plan for the powerful villain... he needed the dfr just being used by the powerful villain in order
