@@ -13,7 +13,7 @@
 ## Main Adventures
 - [[Great Storm Adventure]]
 - [[Inherited Pursuit Adventure]]
-- Push back the hoard the [[Underground Labyrinth]] - since all the high ranking adventurers are out trying to find and fight the cause of the Great Storm, only the weaker or untested adventurers are left to hold back the imminent dungeon break. 
+- Push back the hoard the [[Underground Labyrinth]] ([[Labyrinth Related Adventure]]) - since all the high ranking adventurers are out trying to find and fight the cause of the Great Storm, only the weaker or untested adventurers are left to hold back the imminent dungeon break????
 
 ## Final Boss
 - In the end, a young blue dragon (MM p50) named [another menacing name] was behind the storm since he had made the area his lair. Previous adventuring parties had successfully found the beast but none came back alive, thus nobody knowing of its existence. 
