@@ -13,6 +13,8 @@
 
 ## Main Adventures
 - Great Storm 
+- Specific item received from 
+- Push back the hoard the [[Underground Labyrinth]] - since all the high ranking adventurers are out trying to find and fight the cause of the Great Storm, only the weaker or untested adventurers are left to hold back the imminent dungeon break. 
 
 ## Final Boss
 - In the end, a young blue dragon (MM p50) named [another menacing name] was behind the storm. Previous adventuring parties had successfully found the beast but none came back alive, thus nobody knowing of its existence. 
@@ -20,4 +22,4 @@
 - Young Blue Dragons seek to establish themselves as forces to be feared. Many claim ancient ruins where they might find magical paths to power. This blue dragon has cooperated with a powerful villain who had promised him followers and influence in the Isles. 
 
 ## Possible Connections to Next Arc
-- Young blue dragon retreats before being killed. 
+- Young blue dragon retreats before being killed. Runs away to tell his father (adult blue dragon)? Or runs away and we see him dead of wounds
