@@ -16,7 +16,7 @@
 - Push back the hoard the [[Underground Labyrinth]] ([[Labyrinth Related Adventure]]) - since all the high ranking adventurers are out trying to find and fight the cause of the Great Storm, only the weaker or untested adventurers are left to hold back the imminent dungeon break????
 
 ## Final Boss
-- In the end, a young blue dragon (MM p50) named [another menacing name] was behind the storm since he had made the area his lair. Previous adventuring parties had successfully found the beast but none came back alive, thus nobody knowing of its existence. 
+- In the end, a young blue dragon (MM p50) given the name of Thunder Fang (not a named dragon since they get names when they reach adulthood) was behind the storm since he had made the area his lair. Previous adventuring parties had successfully found the beast but none came back alive, thus nobody knowing of its existence. 
 - Due to having fought strong adventuring parties since the [[Council of Three]] made their statement and began bringing in parties from beyond the [[Black Tides]], the dragon has still-healing gashes and punctures from previous wounds. This has made him furious, and even more dangerous. 
 - Young Blue Dragons seek to establish themselves as forces to be feared. Many claim ancient ruins where they might find magical paths to power. This blue dragon has cooperated with a powerful villain who had promised him followers and influence in the Isles. 
 
