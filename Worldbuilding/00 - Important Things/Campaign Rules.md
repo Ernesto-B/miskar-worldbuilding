@@ -8,7 +8,7 @@
 5. **Player Responsibilities**: On top of normal player roles and responsibilities, players will also be responsible for:
 	1. Reading and becoming familiar with what your class, abilities, attacks, etc do. 
 	2. Narrate what your abilities, spells, and attacks do when you use them. 
-	3. Correctly announcing rolls (applying modifiers, bonuses, etc).
+	3. Correctly announcing attack, damage, saving, and skill/ability check rolls (applying modifiers, bonuses, etc).
 	4. Speaking up if you think I have made an error regarding rules.
 6. **Virtual Sessions**: If/when we have a virtual session, please refrain from DM'ing or otherwise privately communicating with anyone else in the party. All party communication during the session needs to be done through the voice call. Player dice rolls must be either screen shared or clearly shown on camera. If the DM or another player cannot clearly tell what roll you got from the camera, you will be asked to re-roll digitally via screen share.
 7. **Sensitive or Banned Topics**: if anyone is uncomfortable with what is being narrated, the scene being played out, anything, you can either stop the scene immediately by making an X with your arms. Otherwise, talk to me after the session or during a break. 
