@@ -1,9 +1,9 @@
 
 ## Backstory
 - Two years ago, a sudden and great thunderstorm started between Kaelyth and Dremscar islands. The winds and lightning were so violent that the passage between the two islands became impassable... waves as large as 20 meters and a mysterious force causing compasses to malfunction.
-- Coincidentally, at the same time the storm started, a convoy of airships which was delivering the newly built fortress [[Airship Image|Airships]] that were to be stationed at the other islands were traveling between the islands. They were obliterated and remains sunk to the bottom of the sea. 
-- NPC: we don't know who or what caused the storm, but it must have been those barbaric pirates. They were the only ones that would 
-- Even now, two years later, nobody knows what caused the storm, or how the storm is still rampaging in the first place. 
+- Coincidentally, at the same time the storm started, a convoy of airships which was delivering the newly built Fortress [[Airship Image|Airships]] that were to be stationed at the other islands were traveling between the islands. They were obliterated and remains sunk to the bottom of the sea. 
+- NPC: we don't know who or what caused the storm, but it must have been those barbaric pirates. They would have been completely eradicated if those Fortress Airships were deployed like the Council had planned. Even now (two years later), the Great Storm still rages on. Rumor is, only a [[Platinum Rank]] Sorcerer is able to conjure spells that affect weather like that...
+- Recently, the Storm has gotten even worse... the Council is trying to keep it under wraps, but supposedly some high ranking Adventurers sailed to the Spine and were able to catch a glimpse of a massive whirlpool in the center of the storm 
 
 ## Final Boss
 - Wounded young blue dragon
