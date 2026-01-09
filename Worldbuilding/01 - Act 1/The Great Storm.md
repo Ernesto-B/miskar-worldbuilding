@@ -8,9 +8,17 @@
 - The reward for achieving this is 2,000 GP.
 
 ## Why Party is There
-- Incentivized by the monetary reward
+- Some party members incentivized by monetary value, others incentivized by prestige, etc. But they are all there to be the adventurers that end the Great Storm.
+
+
+## Main Adventures
+- Great Storm
+- 
 
 ## Final Boss
+- In the end, a young blue dragon (MM p50) was behind the storm. Previous adventuring parties had successfully found the beast but none came back alive, thus nobody knowing of its existence. 
+- Young Blue Dragons are 
 - Wounded young blue dragon
 
-## 
+## Possible Connections to Next Arc
+- Young blue dragon 
