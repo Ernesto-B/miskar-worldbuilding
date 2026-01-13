@@ -6,7 +6,7 @@
 > As the gangplank lowers, a deep _boom_ rolls across the harbor. Not thunder — **something breaking**.
 > Shouts erupt. A plume of smoke rises from the eastern docks. Bells begin to ring.
 
-Arin - Caden
+Arin - Caden 
 
 Before you start (30 seconds to yourself):
 - The party are new adventurers and outsiders.
