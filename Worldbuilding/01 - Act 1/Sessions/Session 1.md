@@ -6,7 +6,6 @@
 > As the gangplank lowers, a deep _boom_ rolls across the harbor. Not thunder — **something breaking**.
 > Shouts erupt. A plume of smoke rises from the eastern docks. Bells begin to ring.
 
-
 Before you start (30 seconds to yourself):
 - The party are new adventurers and outsiders.
 - Tone is tense, unstable, political.
@@ -184,7 +183,6 @@ Rumors you can drop (choose 2–3):
 - “Gale Sanctum festival might be canceled.”
 - “Council’s hiding something — always are.”
 
-
 General market atmosphere:
 - Covered stalls lashed down with rope
 - Canvas flaps snapping in the wind
@@ -214,7 +212,6 @@ Flavor:
 
 Rumor line (optional):
 - “Stormhold’s chewing through mercenaries faster than I can restock kits.”
-
 
 SHOP 2: GULL & GAFF PROVISIONS  
 Type: Food, rations, and morale
