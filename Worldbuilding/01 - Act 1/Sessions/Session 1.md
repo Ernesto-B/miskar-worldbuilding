@@ -184,3 +184,62 @@ Rumors you can drop (choose 2–3):
 - “Gale Sanctum festival might be canceled.”
 - “Council’s hiding something — always are.”
 
+
+General market atmosphere:
+- Covered stalls lashed down with rope
+- Canvas flaps snapping in the wind
+- Guards posted near floatstone goods
+- Merchants tense, watching the skies
+- Prices up 10–20% compared to “normal times”
+
+SHOP 1: SALTWIND OUTFITTERS  
+Type: General adventuring gear
+Run by:
+- Middle-aged dockwoman, blunt, practical
+- Treats adventurers like temporary tools, not heroes
+
+Goods:
+- Rope (50 ft)
+- Grappling hook
+- Torches
+- Lantern + oil
+- Crowbar
+- Healer’s kit
+- Waterskin
+- Basic rations
+
+Flavor:
+- Everything smells faintly of salt and tar
+- Gear is durable but ugly
+
+Rumor line (optional):
+- “Stormhold’s chewing through mercenaries faster than I can restock kits.”
+
+
+SHOP 2: GULL & GAFF PROVISIONS  
+Type: Food, rations, and morale
+Run by:
+- Young sibling pair
+- Nervous but talkative
+- Proud of surviving another bad season
+
+Goods:
+- Standard rations
+- Dried fish and hardbread
+- Spiced travel food (slightly better morale flavor)
+- Cheap ale (local)
+- Hot stew (if players linger)
+
+Flavor:
+- Food is simple but filling
+- Portions slightly smaller than advertised
+
+Rumor lines (pick one):
+- “Sky Guard lost a glider last tenday. No bodies.”
+- “Storm’s not acting natural. Comes and goes like it’s thinking.”
+- “Festival might be canceled. Bad sign if it is.”
+
+End the market scene with:
+- A messenger finding them
+- A guild rep watching them from afar
+- News spreading about the dock incident
