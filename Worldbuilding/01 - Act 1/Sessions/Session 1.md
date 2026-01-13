@@ -1,5 +1,4 @@
-# Attendance
-- all
+![[Pasted image 20260112193345.png]]
 
 # Session Plan
 - Start with: Immediate instability caused by the storm
