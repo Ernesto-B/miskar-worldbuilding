@@ -28,4 +28,31 @@ Specific details **anchor imagination**.
 Good to incorporate the senses, and using similes to compare descriptions to real-world experiences we might have had. 
 
 ## Player Investment
-- 
+Every meaningful action should do _something_:
+- NPC attitude shifts
+- New information unlocked
+- A future complication introduced
+
+Example:  
+If they intimidate a shopkeeper:
+- He gives the info—but warns the gang that someone’s asking questions
+
+Now the world remembers them.
+Players invest when they feel:
+> “What we do matters.”
+
+
+## Simple Practice Exercise (10 Minutes, Huge Payoff)
+Do this between sessions:
+1. Pick **one location** from your world
+2. Write:
+    - 1 sensory detail
+    - 1 immediate problem
+    - 1 NPC want or fear
+3. Practice saying it **out loud**, once
+
+That’s it.
+You’re training:
+- Brevity
+- Situation-first thinking
+- Confidence in delivery
