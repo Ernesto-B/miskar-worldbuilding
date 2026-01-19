@@ -7,4 +7,5 @@
 
 - Your inventory and gold is managed by you. If you don't have an item written down on your sheet, you don't have it.
 - Gold conversion is done by you. (barring Electrum which will not be used) each coin of higher value is worth 10 of the previous coin (10CP = 1SP, etc). Gold is very important, and can be given to the party as rewards (or stealing/other means).
-- 
+- If you are staying at a town/city for more than a day, you must rest at a location at least once a day. Different tiers of accommodation will cost differently, and your choice will have effects such as the party's class, opportunities, or trouble.
+- Travel will be affected by the type of transport you have: generally, travel by foot might net more problems/encounters wheras travel by transport will have fewer 

@@ -143,3 +143,18 @@ Make players _choose_ between bribes and consequences.
 	- Train to increase proficiency in a skill, tools, weapons. 
 	- Train to increase ability mod?? OP??
 	- Identify item service
+
+- Lifestyle costs
+	Frame Lifestyle as a Question of “Where and How Do You Live?”
+	Instead of:
+	“Choose a lifestyle tier.”
+	Ask:
+	“Where are you staying while you’re in town?”
+	Then describe **options**, not prices.
+	
+	Example (In-Character Framing)
+> 	“You could sleep in the common room of the Crooked Tankard—cheap, loud, and crowded.  
+> 	There are private rooms upstairs if you want quiet.  
+> 	Or you could stay at the Silver Swan, where merchants and minor nobles tend to gather.” 	
+
+After they choose, _then_ translate to gold **quietly**.
