@@ -15,3 +15,8 @@ Smithy - introduces the existence of magic items:
 	- He can't make them, but a smithy in Stormhold can due to existence of the labyrinth... more materials and more adventurers. 
 	- Hefty price, some magic materials require specific materials to create.
 
+Pillar's Envoy - introduces healing & recovery services
+	- lesser restoration: 50-100GP
+	- Remove curse: only in larger cities. Westreach doesn't really have incidents of curses.
+	- Revivify: requires component + costly fee
+

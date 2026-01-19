@@ -3,3 +3,6 @@
 - You don't need to be optimal in combat. Creative play and team play is rewarded and can lead to higher degrees of success. 
 - Some combat encounters will have enemies that are not meant to be taken head-on. These creatures (if present) will be identifiable from the DM's narration. As a party, you always have the option of retreating from a fight or running through/around enemies.
 - If a rule is unclear, I will make a ruling and we'll look it up later. 
+---
+
+- Your inventory and gold is managed by you. If you don't have an item written down on your sheet, you don't have it. 
