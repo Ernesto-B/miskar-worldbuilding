@@ -46,3 +46,5 @@ Doppleganger is there to infiltrate and retrieve the item from the pirate king? 
 
 Party name is called - **Skullkeepers**
 Critter is freaking out when asked about the Covenant of the Council.
+Pillars tasked Critter to protect something. Crew was wiped out because of it. 
+Critter says something in the morning. 
