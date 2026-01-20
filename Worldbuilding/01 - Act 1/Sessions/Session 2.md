@@ -10,15 +10,22 @@ The pirates are the underlings of the Dragon. Dragon had tasked them with delive
 
 Doppleganger is there to infiltrate and retrieve the item from the pirate king? Or he is there as a monster from a different affiliation with other motives?
 
+## Locations in Westreach
+**Kobold's Keep Inn** - introduce issue with kobolds getting more active and acting up, all the adventurers have left towards the storm and Labyrinth?
+	- Info told through rumor (party must pay for info)
 
-Smithy - introduces the existence of magic items:
-	- He can't make them, but a smithy in Stormhold can due to existence of the labyrinth... more materials and more adventurers. 
+**Mella's Forge (Smithy)** - introduces the existence of magic items:
+	- She can't make them, but a smithy in Stormhold can due to existence of the labyrinth... more materials and more adventurers. 
 	- Hefty price, some magic materials require specific materials to create.
 
-Pillar's Envoy - introduces healing & recovery services
-	- lesser restoration: 50-100GP
+**Pillar's Envoy** - introduces healing & recovery services, as well as revivify
+	- Restoration (refer to DM cheat sheet for costs)
 	- Remove curse: only in larger cities. Westreach doesn't really have incidents of curses.
 	- Revivify: requires component + costly fee
+
+**Merchant's Guild** - ??
+
+****
 
 Starting Pirate Quest - introduce NPC, party name, factions lore, storm lore, adventurer's guild lore.
 	- 
