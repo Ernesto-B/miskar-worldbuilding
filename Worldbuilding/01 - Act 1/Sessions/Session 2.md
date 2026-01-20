@@ -38,4 +38,8 @@ Doppleganger is there to infiltrate and retrieve the item from the pirate king? 
 **Starting Pirate Quest** - introduce NPC, party name, factions lore, storm lore, adventurer's guild lore.
 	- Find Zorra Stormriver (female NPC) (secretly daughter of Council member of Stormhold City) to begin the pirate quest. 
 	- Zorra knows the guard captain through her father (acquaintance).
-	- Zorra is trying to gain her father's trust by being personally involved in reclaiming the item that was 
+	- Zorra is trying to gain her father's trust by being personally involved in reclaiming the item that was stolen from the Council. The pirates must have it and must be the ones that caused the storm (not true.. it is the dragon). 
+	- Set out on quest with crew of 20 (led by Captain Vincent) to the Pirate's lair. 
+	- Unbeknownst to the party/crew, a doppleganger has boarded the ship with them and kidnaps/binds the captain in the brig and takes his place to lead the crew to the pirate's hideout.
+	- Murder mystery ensues. Doppleganger kills off and hides/tosses their bodies into the sea. Party has opportunity to solve this mystery and fight the doppleganger before they arrive on the pirate hideout.
+	- Another encounter
