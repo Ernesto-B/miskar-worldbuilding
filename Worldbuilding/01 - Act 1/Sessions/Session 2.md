@@ -25,7 +25,15 @@ Doppleganger is there to infiltrate and retrieve the item from the pirate king? 
 
 **Merchant's Guild** - ??
 
-****
+**Sailor's Restock** - introduces the ability to purchase transportation vehicles to the party. 
+	- introduces the ability to purchase upgrades for your transportation (cannons, reinforced hull, mortar, etc)
 
-Starting Pirate Quest - introduce NPC, party name, factions lore, storm lore, adventurer's guild lore.
-	- 
+**Anchor & Sack (General store)** - introduces shopping and store purchasing. 
+
+**The Wayward Hem (tailor)** - introduces the pros of dressing up (social standing and party's perception, advantage on social encounters)
+
+**Aid Against Ailments** - introduces health potions and brewery. Rumors of black market and dangerous potions.
+	- Sells basic health potion
+
+**Starting Pirate Quest** - introduce NPC, party name, factions lore, storm lore, adventurer's guild lore.
+	- Find Zorra (NPC) 
