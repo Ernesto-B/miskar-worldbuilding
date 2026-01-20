@@ -4,11 +4,11 @@ Soft launch the doppleganger before this fight: party has to decide who it is...
 
 Pirate king stole a valuable item that everyone is after including the monsters as well as the Council?
 
-The item that the pirate king has is either source of storm godlike power to control weather/environment or has ability to grant a forcefield that can protect from the storm. Pirates have it to bargain with the Council or something. 
+The item that the pirate king has is source of the Great Storm (super strong power to control weather/environment). The Great Storm is a massive storm that is a concerning size and is only growing more. The public believe it was started by the Pirates since they have long since been plaguing the Archipelago, but it is in fact a young blue dragon that has made its lair in the region and is slowly recruiting armies/allies.
 
-The pirates are the underlings of the Dragon. Dragon had tasked them with delivering the item to the dragon but the pirates decided that maybe they had a chance to beat the Dragon with the power of the item instead, so they kept it.
+The pirates are the underlings of the Dragon. Dragon had tasked them with delivering the item to the dragon but the pirates decided that maybe they had a chance to beat the Dragon with the power of the item instead, so they kept it (or use it as a bargaining chip against the Council... the governing body of the Isles.)
 
-Doppleganger is there to infiltrate and retrieve the item from the pirate king? Or he is there as a monster from a different affiliation with other motives?
+Doppleganger is there to infiltrate and retrieve the item from the pirate king as a monster from a different affiliation (underdark perhaps) with other motives? Leads to introduction of another faction that is acting behind the scenes (possibly another arc in the future).
 
 ## Locations in Westreach
 **Kobold's Keep Inn** - introduce issue with kobolds getting more active and acting up, all the adventurers have left towards the storm and Labyrinth?
@@ -39,7 +39,7 @@ Doppleganger is there to infiltrate and retrieve the item from the pirate king? 
 	- Find Zorra Stormriver (female NPC) (secretly daughter of Council member of Stormhold City) to begin the pirate quest. 
 	- Zorra knows the guard captain through her father (acquaintance).
 	- Zorra is trying to gain her father's trust by being personally involved in reclaiming the item that was stolen from the Council. The pirates must have it and must be the ones that caused the storm (not true.. it is the dragon). 
-	- Set out on quest with crew of 20 (led by Captain Vincent) on the ship (named by party) to the Pirate's lair. 
+	- Set out on quest with crew of 20 (led by Captain Vincent) on the ship to the Pirate's lair. 
 	- Unbeknownst to the party/crew, a doppleganger has boarded the ship with them and kidnaps/binds the captain in the brig and takes his place to lead the crew to the pirate's hideout.
 	- Murder mystery ensues. Doppleganger kills off and hides/tosses their bodies into the sea. Party has opportunity to solve this mystery and fight the doppleganger before they arrive on the pirate hideout.
 	- Other encounters (sea spawn at night, griffons in day, pirates boarding)
