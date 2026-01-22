@@ -17,4 +17,6 @@ When dragged underwater:
 
 Lore drops:
 - Zorra and Vincent have been trying to catch pirate captains (heads of the pirate organization) for months with no luck. They spent the rest of their gold on hiring a priest to cast `Speak with Dead` spell on one of the pirates the party killed in session 1 to get info on where one of the captains was located. No longer having gold, they could not afford to pay for escorts or mercenaries or an experienced crew. She is grateful for the party helping them. Thus even if Vincent suspects them, he has no choice but to leave you alone. Zorra trusts the party since they killed the pirates who attacked Westreach Port in session 1.
-- Explain the floatstone towers
+- Explain the Jewel of Storms: a prized possession of the Isles that was obtained long ago, it was kept under utmost security by the Council of Three... the decision makers of the Isles.
+- The Jewel is said to be able to change the weather at will to terrifying strength. Zorra heard from someone (her father) that the Jewel was somehow stolen by the pirates, and the pirate lord is using it to cause the Great Storm.
+- 
