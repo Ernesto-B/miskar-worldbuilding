@@ -5,3 +5,10 @@ Crumbs:
 - Zorra tells the party that she suspects the captain... he has been acting strange this whole time, and he has forgotten has last name. 
 
 Give the party: wand of wonder (PHB 322) from sea spawn fight & minor healing potion (if they save the captain). 
+
+
+When dragged underwater:
+- You have 1+CON mod rounds of breath 
+- CON save (DC 10–15)
+- On failure: lose 1 round of breath holding instantly.
+- When out of breath, each round underwater gives one level of exhaustion.
