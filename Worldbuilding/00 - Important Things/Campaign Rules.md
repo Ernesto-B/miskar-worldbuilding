@@ -16,6 +16,6 @@
 
 ---
 # House Rules
-- **Healing Potions**: Healing potions are guaranteed to heal the max amount of healing they can do (instead of rolling). 
+- **Healing Potions**: Healing potions are guaranteed to heal the max amount of healing they can do (instead of rolling). Using a potion requires an *Action*, not a *Bonus Action*.
 - **Critical Hits**: Crit damage will be calculated by doing normal damage calculation + adding the maximum amount of damage your weapon can do. Eg longsword does 1d8, so a crit would be 1d8 + 8 (max dmg).
-- 
+- **Flanking**: We play with the flanking rule. Instead of providing advantage to attack rolls, it instead provides +2 to attack rolls.
