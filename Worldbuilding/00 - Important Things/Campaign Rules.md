@@ -14,8 +14,9 @@
 7. **Sensitive or Banned Topics**: if anyone is uncomfortable with what is being narrated, the scene being played out, anything, you can either stop the scene immediately by making an X with your arms. Otherwise, talk to me after the session or during a break. 
 8. **Feedback and Suggestions**: After every session, feel free to speak to me or send a dm with any feedback or suggestions you may have. Everyone is more than welcome to share with me what they would like to explore or have an opportunity to do in future sessions. 
 
----
+
 # House Rules
 - **Healing Potions**: Healing potions are guaranteed to heal the max amount of healing they can do (instead of rolling). Using a potion requires an *Action*, not a *Bonus Action*.
 - **Critical Hits**: Crit damage will be calculated by doing normal damage calculation + adding the maximum amount of damage your weapon can do. Eg longsword does 1d8, so a crit would be 1d8 + 8 (max dmg).
 - **Flanking**: We play with the flanking rule. Instead of providing advantage to attack rolls, it instead provides +2 to attack rolls.
+- **Underwater**: When dragged underwater, PCs have have 1+CON mod rounds of breath. CON save (DC 10–15). On failure: lose 1 round of breath holding instantly. When out of breath, each round underwater gives one level of exhaustion.
