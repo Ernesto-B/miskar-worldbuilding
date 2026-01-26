@@ -39,3 +39,157 @@ Lore drops:
 - Explain the **Weather Jewel**: a prized possession of the Isles that was obtained long ago, it was kept under utmost security by the Council of Three... the decision makers of the Isles.
 - The Jewel is said to be able to change the weather at will to terrifying strength. Zorra heard from someone (her father) that the Jewel was somehow stolen by the pirates, and the pirate lord is using it to cause the Great Storm.
 - **Stormhold's Labyrinth**: 
+
+
+
+# Skullkeepers Voyage Arc
+
+## SESSION GOAL
+- Build paranoia and tension
+- Allow players to solve the doppleganger mystery
+- Transition cleanly into pirate hideout infiltration
+
+---
+
+## DAY 0 — DOCKS (BEFORE DEPARTURE)
+- Introduce Captain Vincent (real)
+  - Sniffs party, claims they smell foul
+  - Suspicious, gruff demeanor
+- Zorra smooths things over
+- Foreshadow "sense of malice"
+
+IF players question this:
+- Vincent deflects
+- Zorra explains his instinct
+
+
+## NIGHT 1 — THE SWAP (OFF-SCREEN)
+- Doppleganger incapacitates Vincent
+- Vincent bound and hidden in brig
+- Doppleganger assumes Vincent's form
+
+(No clues yet)
+
+## DAY 1 — SUBTLE WRONGNESS
+Clues:
+- Captain avoids lifting crates
+- Delegates physical labor
+- Avoids the brig
+- Friendly tone shift toward PCs
+- Casually tells PCs to avoid the brig
+
+Optional Encounter:
+- Minor sea threat: **Pirate ship on the horizon, must turn off lamps w/ help of crew**
+- Captain commands but does not fight
+
+Morale Check:
+- No change unless players provoke tension
+
+## NIGHT 2 — FIRST DEATH
+Events:
+- Scream heard during night
+- Crewman missing
+- Blood in hold
+
+Later:
+- Body washes against hull
+- Massive bludgeoning wound
+- Face frozen in terror
+
+Morale:
+- –1
+
+IF players investigate:
+- Discover blood trails, scrape marks
+
+---
+
+## DAY 2 — CONTRADICTIONS
+
+Clues:
+- Two sailors report speaking to same crewman at same time
+- That crewman vanishes by nightfall
+- Scrape marks and splintered wood in hold
+
+Encounter Option:
+- Sea spawn / pirates
+- Captain again avoids combat
+
+Morale:
+- –1 if unresolved
+
+---
+
+## NIGHT 3 — IMPOSSIBLE WITNESS
+
+Event:
+- Crewman A sees Crewman B kill Crewman C
+- Party later sees Crewman C alive
+- Crewman A's sanity questioned
+
+This confirms impersonation exists.
+
+Morale:
+- –1 if mishandled
+- –1 if accusation is public and wrong
+
+---
+
+## DAY 3 — SUSPICION CRYSTALLIZES
+
+Clues:
+- Captain forgets crew nicknames
+- Gives wrong surname
+- Zorra voices suspicion openly
+
+IF players act:
+- Searching brig reveals Vincent (alive)
+
+Morale:
+- +3 if Vincent recovered alive
+
+---
+
+## NIGHT 4 — DOPPLEGANGER CONFRONTATION
+
+Trigger Conditions:
+- Players confront "Captain"
+- Players search brig
+- Doppleganger attempts frame or escape
+
+Encounter:
+- Doppleganger fight (environmental, deceptive)
+- Uses shifting, confusion, hostages
+
+End States:
+- Doppleganger slain
+- Doppleganger escapes with info
+- Vincent rescued but doppleganger flees
+
+---
+
+## POST-FIGHT — STABILIZATION
+
+- Vincent is alive but exhausted
+- Cannot fight further this voyage
+- Crew morale rebounds significantly
+- Zorra thanks Skullkeepers publicly
+
+Morale:
+- +2 to +4 depending on outcome
+
+---
+
+## APPROACHING PIRATE HIDEOUT
+
+Situation:
+- Pirate activity heightened
+- Direct approach is dangerous
+
+Options:
+- Night landing by rowboat
+- Smuggler's inlet
+- Decoy maneuver using ship
+
+Transition:
+- Stealth infiltration arc begins
