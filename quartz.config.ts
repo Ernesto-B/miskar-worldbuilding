@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://ernesto-b.github.io/miskar-worldbuilding",
+    baseUrl: "ernesto-b.github.io/miskar-worldbuilding",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
