@@ -1,7 +1,28 @@
 ---
+title: Falling Star Tower
 type: location
 region: aetheris-isles
-status: canon
-tags: []
+tags: [location]
 aliases: []
 ---
+
+## Overview
+
+## Description
+
+## Inhabitants
+
+## Points of Interest
+
+## Daily Life
+
+## Factions & Influence
+
+## History
+
+## Secrets & Rumors
+> [!note]
+>
+
+## Adventure Hooks
+

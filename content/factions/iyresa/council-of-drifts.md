@@ -1,26 +1,36 @@
 ---
-date: 2025-01-21T00:00:00.000Z
-campaign: null
-arc: null
-type: faction
-aliases: []
-alingment: null
 title: Council of Drifts
+type: faction
 region: iyresa
-status: canon
-tags: []
+tags: [faction]
+aliases: []
 ---
-# Summary
-- The Council of Drifts is the governing body of [[locations/iyresa/cascadea]], comprising five representatives, each chosen from one of the city's five [[world/geography/drift]]s. Together, they oversee the city's administration, resolve disputes, and maintain its reputation as the pinnacle of luxury and entertainment. While the council is intended to act as a balanced and unified leadership, the wealth and power of its members often lead to political intrigue, rivalries, and hidden agendas.
-- The council meets in a grand circular chamber located in the Silver Drift, with an enchanted skylight that projects a serene view of the lake above. Discussions are moderated by the Silver Drift Representative, though all members hold equal voting power.
 
-# Leadership
+## Overview
+- Governing body of [[locations/iyresa/cascadea]], with five representatives—one from each [[world/geography/drift]]—overseeing administration, dispute resolution, and the city’s reputation for luxury and entertainment.
+- Wealth and power fuel political intrigue, rivalries, and hidden agendas among council members.
+- Meetings occur in a circular chamber in the Silver Drift beneath an enchanted skylight projecting the lake above; the Silver Drift representative moderates, though all votes are equal.
 
+## Ideology & Goals
+- Maintain Cascadea’s prosperity and balance of power among Drifts while safeguarding its allure as a premier destination.
 
-# Appearance
+## Structure & Hierarchy
+- Five equal representatives; Silver Drift representative moderates proceedings.
 
+## Resources & Influence
+- Control over city policy, trade permissions, and allocation of resources between Drifts.
 
-# Lore
+## Relations
+- Navigates rivalries between Drifts and engages with external merchants and nobles seeking influence in Cascadea.
 
+## Operations
+- Council sessions to adjudicate disputes, manage luxury regulations, and oversee infrastructure tied to the floating city.
 
-# Members
+## Public Perception
+- Seen as powerful arbiters; admired for keeping Cascadea prosperous but suspected of backroom deals.
+
+## History
+
+## Notable Members
+
+## Adventure Hooks

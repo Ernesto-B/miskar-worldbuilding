@@ -1,29 +1,37 @@
 ---
-date: 2025-01-13T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Westreach Port
 type: location
-aliases: []
 region: aetheris-isles
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
-- The only entry point to the [[regions/aetheris-isles/index|Aetheris Isles]] from the Southern Continent. To get there, travelers must first take the safe passage through the [[locations/aetheris-isles/black-tides]].
-- Since entry into the Isles is more regulated than entrance into Westreach Port (due to fear of espionage and sabotage), the majority of merchants sell their wares here. As such, Westreach Port is home to one of the largest markets in the Isles (second to the market in Stormhold on [[locations/aetheris-isles/vorynth-island]]).
-- As a result of the more lax entry and large concentration of trade goods, Westreach Port is a frequent target of pirates and burglar groups.
-- Tavern rumors often swirl about pirate ships daring the Black Tides or hidden treasures washed ashore by storms.
-- Special permission is required to live in Westreach Port.
 
-# Location
-- North of the Southern Continent, past the [[locations/aetheris-isles/black-tides]].
-- West of [[locations/aetheris-isles/vorynth-island]].
+## Overview
+- Primary gateway from the Southern Continent into the [[regions/aetheris-isles/index|Aetheris Isles]] via the safest route through the [[locations/aetheris-isles/black-tides]].
+- Massive market hub drawing merchants who avoid stricter entry controls deeper in the Isles.
 
-# Plot
+## Description
+- Bustling docks with lax entry compared to inland ports, encouraging trade and black-market dealings alike.
+- Home to one of the largest markets in the Isles (second to [[locations/aetheris-isles/stormhold]] on [[locations/aetheris-isles/vorynth-island]]).
+- Frequent pirate and burglar targets; special permission required to gain residency.
+- Tavern tales whisper of pirates daring the Black Tides and storm-washed treasure caches.
 
+## Inhabitants
+- Mix of merchants, sailors, and would-be smugglers leveraging the lighter regulations.
 
-# Key Locations
+## Points of Interest
 
+## Daily Life
+- Constant turnover of ships and caravans keeps streets crowded; security ramps up whenever pirate crews are sighted.
 
-# History
+## Factions & Influence
+- Pirate crews and burglar bands probe defenses; Isles authorities monitor for espionage and sabotage.
+
+## History
+
+## Secrets & Rumors
+> [!note]
+> Sailors trade stories of pirate flotillas slipping through the Black Tides with stolen cargo or cursed treasure.
+
+## Adventure Hooks
 

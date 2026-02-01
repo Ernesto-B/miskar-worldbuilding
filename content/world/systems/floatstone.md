@@ -1,16 +1,40 @@
 ---
-date: 2025-01-10T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
-type: world-system
-aliases: []
+title: Floatstone
+type: system
 region: global
-status: canon
-tags: []
+tags: [world-system]
+aliases: []
 ---
-# Lore
-* An extremely valuable resource that is apparently only mined in the [[regions/aetheris-isles/index|Aetheris Isles]], specifically in floatstone fields.
-* As it is so coveted and there is a limited quantity mined, only Aetherists of middle class and higher can afford it. 
-* In its raw form, it is extremely durable and light, and is mostly used in gear and tools. It is malleable, and so is not used to make weaponry. Inside the [[world/systems/ascension-zone]], items with sufficient floatstone in them will tend to float.
-* Can be **purified** to make into pure floatstone. Pure floatstone will not float within the Ascension Zone, but rather can be used to expand it. As such, [[Kingdom of Drakonia|Drakonia]] and [[Grand Republic of Silveid|Silveid]] have banned the commercial purification of floatstone as part of political pacts. Pure floatstone is extremely hard and looks like normal steel. As such, many Aetherists of high social standing and renowned adventurers have a special interest in obtaining weaponry made of such material in black markets. 
-* Only a select few people from the highest echelons of society know the purification process, and nobody knows how the knowledge is passed down or kept.
+
+## Overview
+An extremely valuable mineral found only in the [[regions/aetheris-isles/index|Aetheris Isles]], mined from floatstone fields and coveted across societies.
+
+<div class="rulescard">
+
+- Raw floatstone is light, durable, and floats inside the [[world/systems/ascension-zone]] when sufficient material is present.
+- Purified floatstone does not float but can expand the Ascension Zone.
+- Supply is limited and expensive, accessible mainly to middle-class Aetherists and above.
+- Commercial purification is banned by [[Kingdom of Drakonia|Drakonia]] and [[Grand Republic of Silveid|Silveid]].
+
+</div>
+
+## How It Works
+- Raw floatstone is extremely durable yet malleable, suited to gear and tools rather than weapon edges; within the Ascension Zone, items with enough floatstone rise naturally.
+- Purification refines it into pure floatstone, a steel-like material that expands the Ascension Zone instead of floating and is prized for clandestine weapon crafting.
+- The purification process is held by only a few elite figures; its transmission remains opaque.
+
+## Rules & Constraints
+- Limited quantity keeps prices high and availability restricted.
+- Political pacts ban commercial purification in Drakonia and Silveid, pushing demand to black markets.
+
+## Impact on Society
+- Economy: Drives trade monopolies and black-market demand for purified weapons.
+- Warfare: Floatstone-based gear enables aerial tactics within the Ascension Zone.
+- Daily life: Middle-class and elite Aetherists incorporate floatstone into tools and travel.
+
+## Dangers & Consequences
+- Illicit purification risks political retaliation and destabilization of the Ascension Zone if misused.
+
+## History
+
+## Myths & Misconceptions

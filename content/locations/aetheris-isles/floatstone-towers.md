@@ -1,18 +1,39 @@
 ---
-date: 2025-01-10T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Floatstone Towers
 type: location
-aliases: []
 region: aetheris-isles
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Lore
-* The Floatstone Towers were constructed centuries ago, long before the modern rulers of the Aetheris Isles. Legends say they were a gift from [[religion/the-three-pillars]], imbued with divine energy to protect and sustain the Isles. Scholars debate whether the towers were built by an advanced ancient civilization or crafted by the gods themselves.
-- Much of the original technology and magic used to build the towers has been lost to time. The purification process for [[world/systems/floatstone]], while highly advanced, is believed to be a fraction of the knowledge once possessed by the original creators.
-- Each tower stands as a monolithic structure made of an unidentifiable white or brown stones veined with glowing lines of energy, thought to be conduits for the [[world/systems/ascension-zone]].
-- The top of each tower has a massive circular platform where the purified floatstone is housed in elaborate, rune-inscribed containers. These containers are said to resonate with the energy of the Three Pillars, and together form the Ascension Zone.
-- Each tower is protected by a dedicated faction, known as the [[factions/aetheris-isles/ascendant-wardens]]. These warriors, engineers, and scholars maintain and defend the towers from threats such as sabotage, corruption, and monster attacks.
-- Ascendant Wardens are sworn to secrecy and forbidden from sharing their knowledge with outsiders. Only the most loyal and capable are selected to serve.
-- Purified Floatstone Nexus:  The towers house massive cores of purified floatstone that create the Ascension Zone. These cores are maintained through rituals and careful engineering, requiring constant vigilance to prevent destabilization.
+
+## Overview
+- Monolithic towers said to be gifts from the [[religion/the-three-pillars]], anchoring the [[world/systems/ascension-zone]] and sustaining the Isles.
+- Stand as fortified, ancient structures guarded to keep sabotage and monster attacks at bay.
+
+## Description
+- Built centuries ago from unidentifiable white or brown stone veined with glowing energy conduits.
+- Tower tops hold massive circular platforms with rune-inscribed containers that resonate with the Three Pillars to house purified [[world/systems/floatstone]].
+- The purification process used today is only a fragment of the original, long-lost methods.
+
+## Inhabitants
+- Stationed engineers, warriors, and scholars living within or around the towers to keep them stable.
+
+## Points of Interest
+- Purified Floatstone Nexus cores that generate the Ascension Zone and require constant rituals and maintenance.
+
+## Daily Life
+- Continuous maintenance of mechanisms and wards, vigilant patrols, and ritual upkeep to prevent destabilization.
+
+## Factions & Influence
+- Guarded by the [[factions/aetheris-isles/ascendant-wardens]], sworn to secrecy and forbidden from sharing tower lore with outsiders; only the most loyal serve.
+
+## History
+- Origins contested between advanced ancient builders and divine creation; constructed long before current rulers.
+- Significant portions of original technology and magic vanished over time, leaving only partial knowledge of the towers’ construction and purification methods.
+
+## Secrets & Rumors
+> [!note]
+> Some Wardens whisper of deeper chambers that still hold untouched technology beyond modern understanding.
+
+## Adventure Hooks
+

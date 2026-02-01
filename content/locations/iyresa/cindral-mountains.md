@@ -1,28 +1,28 @@
 ---
-date: 2025-01-21T00:00:00.000Z
-campaign: null
-arc: null
-type: location
-aliases: []
 title: Cindral Mountains
+type: location
 region: iyresa
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
-- 
 
-# Location
-- 
+## Overview
 
-# Plot
-- 
+## Description
 
-# Key Locations
--  
+## Inhabitants
 
-# History
-- 
+## Points of Interest
 
-# Adventuring Hooks
-- 
+## Daily Life
+
+## Factions & Influence
+
+## History
+
+## Secrets & Rumors
+> [!note]
+>
+
+## Adventure Hooks
+

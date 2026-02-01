@@ -1,32 +1,37 @@
 ---
-date: 2025-01-19T00:00:00.000Z
-campaign: null
-arc: null
-type: location
-aliases: []
 title: Onyx Caves
+type: location
 region: iyresa
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
 
+## Overview
+- Ancient cave network west of [[locations/iyresa/cascadea]] and [[locations/iyresa/stonefall]], largely unexplored and riddled with rumors of lurking humanoids.
 
-# Location
-- West of the major cities [[locations/iyresa/cascadea]] & [[locations/iyresa/stonefall]].
+## Description
+- Entrances sit west of Iyresa’s major cities; deeper sections remain unmapped and dangerous.
+- Only surface-level areas see regular travel, as monsters deter most expeditions.
 
-# Plot
-- ==Reported sightings of humanoid like creatures in the caves have been rumoured but not investigated==. 
+## Inhabitants
+- Rumored humanoid figures, dangerous monsters, and whatever else the depths conceal.
 
-# Key Locations
-- 
+## Points of Interest
 
-# History
-- These ancient caves were formed unknowingly after the appearance of the massive crater that formed [[locations/iyresa/stonefall]]. Nobody knows how they were formed, and many that have ventured deep into the caves did not return.
-- Only the areas near the surface have been explored as the threat of dangerous monsters repels adventurers from venturing into the caves. 
+## Daily Life
 
-### Adventuring Hooks
-- ==Lost civilization lives here??==
-- Hidden Treasure Room: A treasure map leads the adventurers to a seemingly impenetrable door within the cave, guarded by traps and riddles.
-- Monstrous Lair: Adventurers accidentally disturb the lair of a powerful monster that begins to hunt them through the caves and eventually threatens to disturb the cities. 
-- Portal to Another Country: In the deepest part of the cave lies a portal to another country, which may bring up questions about the history of the country and the motives of the people who use(d) the portal. 
+## Factions & Influence
+
+## History
+- Formed after the massive crater event that created Stonefall; their true origin remains unknown, and many who delve deep never return.
+
+## Secrets & Rumors
+> [!note]
+> Explorers speak of lost civilizations or portals hidden in the depths, but few survive to verify the tales.
+
+## Adventure Hooks
+- Investigate reported sightings of humanoid-like creatures in the caves.
+- Hidden Treasure Room: A map points to an impenetrable door within the cave, trapped and riddle-locked.
+- Monstrous Lair: Disturbing a powerful monster draws a deadly hunt that could spill toward the cities.
+- Portal to Another Country: Deep within the caverns, a portal to another land may reveal forgotten history and new threats.
+

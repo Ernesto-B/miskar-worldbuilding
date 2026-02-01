@@ -1,24 +1,37 @@
 ---
-date: 2025-01-10T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Ascendant Guild
 type: faction
-aliases: []
-alingment: null
 region: aetheris-isles
-status: canon
-tags: []
+tags: [faction]
+aliases: []
 ---
-# Summary
-* The Ascendant Guild oversees all activities related to life and work above the ground. From managing the sky farms that provide food for the Aetheris Isles to constructing and maintaining floating platforms, their expertise ensures the Isles' survival within the [[world/systems/ascension-zone]].
-* Membership is mandatory for those who wish to engage in any airborne endeavors, including agricultural work, transport, or building floating defenses.
-* The guild wields significant influence over the Isles' economy and is known for its rigorous training and strict regulations.
 
-# Leadership
+## Overview
+- Oversees all work and life above ground: sky farms, floating platforms, and infrastructure keeping the Isles alive within the [[world/systems/ascension-zone]].
+- Membership is mandatory for airborne agriculture, transport, and constructing floating defenses.
+- Known for rigorous training and strict regulations that underpin the Isles’ economy.
 
+## Ideology & Goals
+- Maintain and expand sustainable living in the Ascension Zone while safeguarding aerial commerce and food supply.
 
-# Appearance
+## Structure & Hierarchy
+- Guildmasters direct divisions for agriculture, transport, and platform engineering; membership tiers govern work permissions.
 
+## Resources & Influence
+- Control over sky farms, floating platform projects, and certifications for airborne labor grants major economic leverage.
 
-# Lore
+## Relations
+- Coordinates with the [[factions/aetheris-isles/airship-guild]] on transport logistics and with island councils on resource allocation.
+
+## Operations
+- Training programs, platform construction, harvest oversight, and inspections to enforce guild standards.
+
+## Public Perception
+- Respected as essential but often viewed as bureaucratic and demanding due to strict rules.
+
+## History
+
+## Notable Members
+
+## Adventure Hooks
 

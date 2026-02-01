@@ -1,24 +1,30 @@
 ---
-date: 2025-01-10T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Kaelyth Island
 type: location
-aliases: []
 region: aetheris-isles
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
+
 ![[assets/maps/map-kaelyth-island.png]]
 
-# Location
+## Overview
 
+## Description
 
-# Plot
+## Inhabitants
 
+## Points of Interest
 
-# Key Locations
+## Daily Life
 
+## Factions & Influence
 
-# History
+## History
+
+## Secrets & Rumors
+> [!note]
+>
+
+## Adventure Hooks
 

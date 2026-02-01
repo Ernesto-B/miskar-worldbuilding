@@ -1,13 +1,24 @@
 ---
 title: Magic — Systems
-type: world-system
+type: system
 region: global
-status: canon
-tags: []
+tags: [world-system]
 aliases: []
 ---
 
-Magic systems, materials, and phenomena.
+## Overview
+Magic systems, materials, and phenomena that underpin the world’s supernatural physics.
 
+## How It Works
 - Core materials: [[world/systems/floatstone|Floatstone]], [[world/systems/ascension-zone|Ascension Zone]].
-- See regional practice in [[regions/aetheris-isles/index|Aetheris Isles]].
+- See regional practice in the [[regions/aetheris-isles/index|Aetheris Isles]].
+
+## Rules & Constraints
+
+## Impact on Society
+
+## Dangers & Consequences
+
+## History
+
+## Myths & Misconceptions

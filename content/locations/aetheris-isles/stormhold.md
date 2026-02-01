@@ -1,25 +1,37 @@
 ---
-date: 2025-01-14T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Stormhold
 type: location
-aliases: []
 region: aetheris-isles
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
-- A fortress-like city in [[locations/aetheris-isles/vorynth-island]] built into the cliffs overlooking the [[locations/aetheris-isles/black-tides]]. Its defensive walls are reinforced with floatstone, making them resistant to both physical and magical attacks.
-- Beneath the city lies the [[locations/aetheris-isles/underground-labyrinth]], a sprawling network of tunnels rumored to contain ancient treasures, forgotten monsters, and pathways to other islands. Periodic "dungeon breaks" release these threats into the city, creating a constant need for skilled adventurers.
 
-# Location
+## Overview
+- Fortress city carved into the cliffs of [[locations/aetheris-isles/vorynth-island]], guarding the edge of the [[locations/aetheris-isles/black-tides]].
+- Floatstone-reinforced walls make it a bastion against both siege and sorcery.
 
+## Description
+- City perches above the sea with layered defenses and lookout posts.
+- Beneath it sprawls the [[locations/aetheris-isles/underground-labyrinth]], releasing threats in periodic “dungeon breaks” that demand constant vigilance.
 
-# Plot
+## Inhabitants
+- Hardened defenders and adventurers drawn by the promise of glory and danger in the Labyrinth.
 
+## Points of Interest
+- [[locations/aetheris-isles/underground-labyrinth]] entrances and sealed gates maintained throughout the city.
+- Markets and barracks clustered near the cliffside walls to support rapid deployments.
 
-# Key Locations
+## Daily Life
+- Routine drills, monster alarms, and repairs to floatstone defenses shape daily rhythms.
 
+## Factions & Influence
+- Local commanders coordinate with regional forces to keep the Labyrinth contained.
 
-# History
+## History
+
+## Secrets & Rumors
+> [!note]
+> Whispers claim the Labyrinth hides passages to other islands or caches of pre-Purge floatstone.
+
+## Adventure Hooks
 

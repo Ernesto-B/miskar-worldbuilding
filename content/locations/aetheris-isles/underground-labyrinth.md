@@ -1,24 +1,28 @@
 ---
-date: 2025-01-10T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Underground Labyrinth
 type: location
-aliases: []
 region: aetheris-isles
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
 
+## Overview
 
-# Location
+## Description
 
+## Inhabitants
 
-# Plot
+## Points of Interest
 
+## Daily Life
 
-# Key Locations
+## Factions & Influence
 
+## History
 
-# History
+## Secrets & Rumors
+> [!note]
+>
+
+## Adventure Hooks
 

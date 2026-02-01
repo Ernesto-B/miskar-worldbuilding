@@ -1,3 +1,54 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* === Sourcebook Blocks === */
+
+.statblock, .rulescard {
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--light) 92%, var(--secondary) 8%);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  margin: 1rem 0;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.statblock h3, .rulescard h3 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  letter-spacing: 0.02em;
+}
+
+.statblock em, .rulescard em {
+  opacity: 0.9;
+}
+
+.statblock table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.7rem 0 0.9rem 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.statblock table th, .statblock table td {
+  border: 1px solid var(--lightgray);
+  padding: 0.35rem 0.5rem;
+  text-align: right;
+}
+
+.statblock h4 {
+  margin: 0.8rem 0 0.35rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--lightgray) 70%, transparent);
+  padding-bottom: 0.25rem;
+}
+
+.rulescard strong {
+  display: inline-block;
+  min-width: 110px;
+}
+
+/* Optional: make inline “attack lines” look tighter */
+.statblock p {
+  margin: 0.25rem 0;
+}
+

@@ -1,25 +1,37 @@
 ---
-date: 2025-01-10T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Airship Guild
 type: faction
-aliases: []
-alingment: null
 region: aetheris-isles
-status: canon
-tags: []
+tags: [faction]
+aliases: []
 ---
-# Summary
-* The Airship Guild is an elite organization dedicated to airship pilots, their engineers, and researchers pushing the boundaries of aerial technology. Focused solely on the creation, operation, and advancement of airship travel, this guild drives innovation in the Aetheris Isles' airborne transportation.
-* Its members are considered the pinnacle of technical expertise, and airship pilots are treated as minor nobility due to their crucial role in connecting the Isles.
-* Unlike the broader [[factions/aetheris-isles/ascendant-guild]], the Airship Guild is smaller and more specialized, catering exclusively to those directly involved with airship operations.
-* A portion of their members are currently (as of Undead Peace) tasked with developing the means for air travel outside of the [[world/systems/ascension-zone]].
 
-# Leadership
+## Overview
+- Elite organization of airship pilots, engineers, and researchers driving airborne transport innovation across the Aetheris Isles.
+- Members are renowned technical experts; pilots are treated like minor nobility for keeping the Isles connected.
+- Smaller and more specialized than the broader [[factions/aetheris-isles/ascendant-guild]], focusing solely on airship creation, operation, and advancement.
+- Teams currently work to enable air travel beyond the [[world/systems/ascension-zone]].
 
+## Ideology & Goals
+- Push aerial technology forward and expand safe airship travel outside the Ascension Zone.
 
-# Appearance
+## Structure & Hierarchy
+- Led by veteran captains and chief engineers who oversee pilot cadres and research divisions.
 
+## Resources & Influence
+- Access to cutting-edge airship designs, workshops, and research labs; influence over travel routes and trade reliant on airships.
 
+## Relations
+- Cooperative ties with the [[factions/aetheris-isles/ascendant-guild]] for shared infrastructure, with friendly rivalry over innovation.
 
+## Operations
+- Airship construction, pilot training, route maintenance, and experimental flights beyond current boundaries.
 
+## Public Perception
+- Seen as brilliant and daring technocrats; pilots command respect and social prestige.
+
+## History
+
+## Notable Members
+
+## Adventure Hooks

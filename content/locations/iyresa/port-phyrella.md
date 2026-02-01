@@ -1,33 +1,40 @@
 ---
-date: 2025-01-18T00:00:00.000Z
-campaign: null
-arc: null
-type: location
-aliases: []
 title: Port Phyrella
+type: location
 region: iyresa
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
-- A port in the northeast of the [[world/geography/coast-of-iyresa]].
-- This port holds a reputation for being one of the biggest ports in the world, as [[world/geography/coast-of-iyresa|Iyresa]] is a country that frequents many visitors and acts as a trade hub.
-- The port is able dock over 1000 boats, making it very accessible. The country charges visitors no parking fees for short stays, making it a very popular spot to dock for quick visits and dropping off wares.
 
-# Location
-- A port on the northeast [[world/geography/coast-of-iyresa]]. 
+## Overview
+- Northeastern harbor of the [[world/geography/coast-of-iyresa]], famed as one of the largest ports in the world.
+- Capable of docking over a thousand boats with no short-stay parking fees, making it the default stop for traders and visitors.
 
-# Plot
+## Description
+- Constant churn of cargo, travelers, and diplomats marks the docks; Iyresa’s trade hub reputation draws ships from across the seas.
+- Free short-term docking keeps turnover high and encourages quick drop-offs of wares and passengers.
 
+## Inhabitants
+- Merchants, sailors, dockworkers, customs officials, and information brokers who thrive on foreign traffic.
 
-# Key Locations
-- Travelling merchant's ship that appears once a week, who provides valuable information/materials. (Xur from Destiny?)
+## Points of Interest
+- Traveling merchant ship that arrives weekly, trading rare materials and whispered intelligence.
 
-# History
+## Daily Life
+- Warehouses, taverns, and markets stay busy day and night; harbor crews race to unload and reload ships before the next fleet arrives.
 
+## Factions & Influence
+- Smuggling rings test port security; revolutionaries eye the docks for clandestine meetings and weapon shipments.
 
-# Adventuring Hooks
-- Suspicious Smuggling Operations: Smugglers from other nations seek to sell banned items, relics, and substances, which leads to disruptions in the cities of [[locations/iyresa/stonefall]] and [[locations/iyresa/cascadea]]. However, this operation seems to be planned by another nation to be able to take advantage of the [[world/geography/coast-of-iyresa]] while it is dealing with this internal crises. 
-- Shipwreck survivors: A damaged ship from the unknown arrives and the survivors claim to have ran into an undiscovered island with many dangers but also bountiful treasures. 
-- Pirate attack: Pirates arrive from hostile nations and hold other ships ransom, otherwise the ships and the valuables on them will be destroyed.
-- Rebellion Brewing: Revolutionaries of [[world/geography/coast-of-iyresa|Iyresa]] use the port to smuggle weapons and rally support, threatening the stability of the city.
+## History
+
+## Secrets & Rumors
+> [!note]
+> Dockside gossip ranges from lost ships stumbling onto undiscovered islands to hidden rebel caches buried beneath warehouses.
+
+## Adventure Hooks
+- Suspicious Smuggling Operations: Foreign smugglers sell banned relics and substances, destabilizing [[locations/iyresa/stonefall]] and [[locations/iyresa/cascadea]] as rivals exploit the chaos.
+- Shipwreck Survivors: A damaged vessel arrives claiming discovery of an uncharted island filled with danger and treasure.
+- Pirate Attack: Hostile pirates hold ships ransom, threatening to torch vessels and cargo if unpaid.
+- Rebellion Brewing: Revolutionaries of Iyresa use the port to smuggle weapons and rally support, risking city-wide unrest.
+

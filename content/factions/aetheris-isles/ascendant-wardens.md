@@ -1,24 +1,38 @@
 ---
-date: 2025-01-10T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Ascendant Wardens
 type: faction
-aliases: []
-alingment: null
 region: aetheris-isles
-status: canon
-tags: []
+tags: [faction]
+aliases: []
 ---
-# Summary
-* The Ascendant Wardens are an elite order tasked with safeguarding the [[locations/aetheris-isles/floatstone-towers]] and ensuring the stability of the [[world/systems/ascension-zone]]. Their responsibilities include defending the towers from sabotage, monstrous threats and from anyone seeking to harm the towers. Known for their unmatched discipline and skill, the Wardens are apex warriors, trained in aerial combat, land combat, and the secrets of [[world/systems/floatstone]] technology.
-* It is rumored that the winner of Stormhold's Martial Festival is often scouted for recruitment into this prestigious group. This has made the festival a proving ground for those seeking glory and recognition in the Isles.
 
-# Leadership
+## Overview
+- Elite order charged with safeguarding the [[locations/aetheris-isles/floatstone-towers]] and stabilizing the [[world/systems/ascension-zone]].
+- Apex warriors trained in aerial and land combat and versed in [[world/systems/floatstone]] technology to repel sabotage and monstrous threats.
+- Winners of Stormhold’s Martial Festival are rumored to be scouted for recruitment, turning the festival into a proving ground.
 
+## Ideology & Goals
+- Protect the floatstone infrastructure at all costs and preserve the Ascension Zone’s balance.
 
-# Appearance
+## Structure & Hierarchy
+- Commanders oversee tower garrisons and rapid-response units; recruits are drawn from proven festival champions and veteran defenders.
 
+## Resources & Influence
+- Access to floatstone technology, fortified tower strongholds, and authority to requisition elite fighters.
 
-# Lore
+## Relations
+- Close ties to [[locations/aetheris-isles/stormhold]] leadership and cooperation with the [[factions/aetheris-isles/ascendant-guild]] on tower maintenance.
+
+## Operations
+- Guard rotations at towers, anti-sabotage patrols, and deployment to emergent threats against the Ascension Zone.
+
+## Public Perception
+- Revered as disciplined guardians; their secrecy around tower knowledge inspires both trust and mystique.
+
+## History
+
+## Notable Members
+
+## Adventure Hooks
 
 

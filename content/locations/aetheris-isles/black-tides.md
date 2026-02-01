@@ -1,24 +1,34 @@
 ---
-date: 2025-01-13T00:00:00.000Z
-campaign: Wrath of Ul'Tirex
-arc: null
+title: Black Tides
 type: location
-aliases: []
 region: aetheris-isles
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
-- A treacherous sea, commonly ravaged by violent, tall waves. Due to its rough nature the Monster Purge did not reach here, and as such the majority of remaining monsters and creatures reside in the waters here.
-- Although it is a dangerous sea, merchants, travelers, and adventurers have seemingly discovered safer passage from the Southern Continent to [[locations/aetheris-isles/westreach-port]]
 
-# Location
-- The sea on the South and South-West of the [[regions/aetheris-isles/index|Aetheris Isles]]. Extends to right below [[locations/aetheris-isles/vorynth-island]]. 
+## Overview
+- Treacherous sea ravaged by violent waves, now a refuge for monsters untouched by the Monster Purge.
+- Despite dangers, sailors chart safer passage between the Southern Continent and [[locations/aetheris-isles/westreach-port]].
 
-# Plot
+## Description
+- Constant tall waves and unpredictable storms define the waters, making navigation perilous.
+- Stretches along the south and southwest of the [[regions/aetheris-isles/index|Aetheris Isles]], extending below [[locations/aetheris-isles/vorynth-island]].
 
+## Inhabitants
+- Sea monsters and hardy sailors willing to brave the rough trade route.
 
-# Key Locations
+## Points of Interest
 
+## Daily Life
+- Travel demands seasoned crews, reinforced ships, and careful timing to catch calmer tides.
 
-# History
+## Factions & Influence
+
+## History
+
+## Secrets & Rumors
+> [!note]
+>
+
+## Adventure Hooks
+

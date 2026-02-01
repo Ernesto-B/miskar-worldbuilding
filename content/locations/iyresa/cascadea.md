@@ -1,105 +1,39 @@
 ---
-date: 2025-01-15T00:00:00.000Z
-campaign: null
-arc: null
-type: location
-aliases: []
 title: Cascadea
+type: location
 region: iyresa
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
-- Cascadea - a floating island - is the upper city in the country of [[world/geography/coast-of-iyresa|Iyresa]].
-- The city is surrounded by a magnetic field that came to be after a meteor struck the land. The magnetic field has benefitted the city in 2 ways: It wards off monsters, as well as allows individuals to travel up and down the island's inverse waterfalls.
-- 
 
-# Geographical Location and Features
-- Cascadea is a floating island. The only way to enter the city is from the bottom of the island and utilizing special transport methods that take advantage of waterfalls that flow upwards.
-- There are 5 inverse waterfalls that are affected by Cascadea's magentic field, dividing the city into 5 [[world/geography/drift|Drifts]], each serving a different purpose.
-- 
+## Overview
+- Floating upper city of [[world/geography/coast-of-iyresa|Iyresa]], lifted by a magnetic field born from a meteor strike.
+- Inverse waterfalls form the only entrances, dividing the city into five specialized [[world/geography/drift|Drifts]].
 
-# Lore
+## Description
+- Surrounded by a protective magnetic field that wards off monsters and enables travel along the upward-flowing waterfalls.
+- Entry is solely from the island’s underside, using transport that rides the five inverse waterfalls into their respective Drifts.
 
+## Inhabitants
 
-# Other Key Locations
-- **Echoeside (Entertainment [[world/geography/drift]]):**
-    - Echoeside, a bustling drift, is host to many of the top talent and entrepreneurs of the country. Streets are lined with concessions, shows, restaurants, and brothels.
-    -  
-- **Sagehaven (Scholar [[world/geography/drift]]):**
-    - 
-- **Eryndral (Government  [[world/geography/drift]]):**
-    - 
-- **Voltaryn (Energy [[world/geography/drift]]):**
-    - 
-- **Auralith (Market [[world/geography/drift]]):**
-    - 
+## Points of Interest
+- **Echoeside (Entertainment Drift):** Bustling streets of shows, concessions, restaurants, and brothels hosting top talent and entrepreneurs.
+- **Sagehaven (Scholar Drift):**
+- **Eryndral (Government Drift):**
+- **Voltaryn (Energy Drift):**
+- **Auralith (Market Drift):**
 
-# History
+## Daily Life
+- Residents navigate between Drifts via regulated waterfall transport, with commerce, government, scholarship, energy work, and entertainment each anchored to a different layer of the city.
+- Open topics to flesh out: government structure, guilds, social/economic/political hierarchy, ideology and culture, trade and economics, language and naming, religion, magic, legal system, organized crime, education, inter-racial relations, music/fashion/food, science/medicine/technology, military and conflict, myths and legends, architecture, aging and pregnancy, marriage, and death rites.
 
+## Factions & Influence
 
+## History
 
+## Secrets & Rumors
+> [!note]
+>
 
-# Detailed Notes
-### Government Structure
-* 
+## Adventure Hooks
 
-### Guilds
-* 
-
-### Social/Economic/Political Hierarchy (Class Structure)
-* 
-
-### Political/Social Ideology and Culture
-* 
-
-### Trade and Economics
-* 
-
-### Language and Naming
-* 
-
-### Religion
-* 
-
-### Magic
-* 
-
-### Legal System
-* 
-
-### Organized Crime
-* 
-
-### Education
-* 
-
-### Inter-racial relations
-* 
-
-### Music/Fashion/Food
-* 
-
-### Science, Medicine, and Technology
-* 
-
-### Military, Secret Services, Conflict
-* 
-
-### The Supernatural/Myths/Legends
-* 
-
-### Architecture/Civic Planning
-* 
-
-### Aging & Pregnancy
-* 
-
-### Marriage
-* 
-
-### Death, Funerals, and the Afterlife
-* 
-
-### Adventuring Hooks
-* 

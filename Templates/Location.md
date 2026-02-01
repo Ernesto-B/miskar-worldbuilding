@@ -1,24 +1,42 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
-campaign: 
-arc: 
+title: 
 type: location
-aliases: 
+region: 
+tags: [location]
+aliases: []
 ---
-# Description
-- 
 
-# Location
-- 
+![[LOCATION_IMAGE]]
 
-# Plot
-- 
+## Overview
+What this place is and why players might care.
 
-# Key Locations
--  
+## Description
+Sensory details: sights, sounds, smells, atmosphere.
 
-# History
-- 
+## Inhabitants
+- Who lives here
+- Who controls it
 
-# Adventuring Hooks
-- 
+## Points of Interest
+- [[Sub-location]]
+- [[Sub-location]]
+
+## Daily Life
+- What an average day looks like
+- Laws, customs, dangers
+
+## Factions & Influence
+- [[Faction Name]] (role)
+
+## History
+- How it came to be
+- Major changes
+
+## Secrets & Rumors
+> [!note]
+> Things locals whisper — not guaranteed truth.
+
+## Adventure Hooks
+- Hook 1
+- Hook 2

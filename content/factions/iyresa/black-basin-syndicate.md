@@ -1,27 +1,37 @@
 ---
-date: 2025-01-19T00:00:00.000Z
-campaign: null
-arc: null
-type: faction
-aliases: []
-alingment: null
 title: Black Basin Syndicate
+type: faction
 region: iyresa
-status: canon
-tags: []
+tags: [faction]
+aliases: []
 ---
-# Summary
-- The Black Basin Syndicate is the most powerful and feared criminal organization in [[locations/iyresa/stonefall]], operating primarily out of the lower [[world/geography/hollow|Hollows]]. It thrives on smuggling, illegal trading, and the notorious underground fighting ring known as the Pit of Despair. Ruthless, secretive, and highly organized, the Syndicate’s influence stretches from the Black Depths to the Sunlit Crown, exploiting the divisions and chaos of the city's layered society.
-- In the Lower Hollows: The Syndicate rules with near-absolute authority. Residents of the Dimming Mire and Black Depths rely on the Syndicate for security, work, or smuggled goods, though this dependency often traps them in cycles of debt and exploitation.
-- In the Upper Hollows: While less visible, the Syndicate’s reach extends into the Sunlit Crown and Azure Steps through corrupt officials, merchants, and wealthy patrons. They supply Cascadean luxury goods to Stonefall’s elite and use bribes to ensure their activities go unnoticed.
 
-# Leadership
+## Overview
+- Most powerful and feared criminal organization in [[locations/iyresa/stonefall]], thriving on smuggling, illegal trade, and the Pit of Despair fighting ring.
+- Influence stretches from the Black Depths to the Sunlit Crown, exploiting the city’s layered divisions.
+- In the Lower Hollows, rules with near-absolute authority by offering security, work, and smuggled goods that entrap residents in debt.
+- In the Upper Hollows, extends reach through corrupt officials and wealthy patrons, supplying Cascadean luxury goods and bribing oversight.
 
+## Ideology & Goals
+- Profit and control through monopolizing vice, smuggling routes, and covert influence across all Hollows.
 
-# Appearance
+## Structure & Hierarchy
+- Shadow leadership coordinating lieutenants in each Hollow; enforcers and smugglers manage day-to-day operations.
 
+## Resources & Influence
+- Smuggling tunnels, black market access, bribed officials, and fighters dominating the Pit of Despair.
 
-# Lore
+## Relations
+- Corrupt ties within Stonefall’s elite; rivalries with law enforcers and any factions threatening their trade channels.
 
+## Operations
+- Smuggling, illegal trading, arena management, and protection rackets across the Hollows.
 
-# Members
+## Public Perception
+- Feared in lower districts and resented yet relied upon; viewed with suspicion and denial in upper tiers.
+
+## History
+
+## Notable Members
+
+## Adventure Hooks

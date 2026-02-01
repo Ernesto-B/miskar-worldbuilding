@@ -1,31 +1,38 @@
 ---
-date: 2025-01-18T00:00:00.000Z
-campaign: null
-arc: null
-type: location
-aliases: []
 title: Iyresan Plains
+type: location
 region: iyresa
-status: canon
-tags: []
+tags: [location]
+aliases: []
 ---
-# Description
-- The Iyresan Plains in the [[world/geography/coast-of-iyresa]] are vast, open grasslands stretching from the crater of [[locations/iyresa/stonefall]] westward to the rugged [[locations/iyresa/cindral-mountains]]. Known for their breathtaking vistas of rolling fields, scattered wildflowers, and endless horizons, the plains are both beautiful and perilous. They are a crossroads for travelers, adventurers, and merchants navigating between the Coast of Iyresa’s cities and the resource-rich mountains. Despite their serenity, the plains are teeming with danger, as they are home to untamed wildlife, roaming monsters, and plunderers looking to steal merchant wares.
-- The plains are home to a variety of low rank [[monsters]] (E-F), and as such, is often used as rites of passages for new adventurers looking to begin their careers hunting monsters.
 
-# Location
-- Between the [[locations/iyresa/cindral-mountains]] and [[locations/iyresa/stonefall]]/[[locations/iyresa/cascadea]]
+## Overview
+- Vast grasslands of the [[world/geography/coast-of-iyresa]], stretching from the [[locations/iyresa/stonefall]] crater westward to the [[locations/iyresa/cindral-mountains]].
+- Scenic crossroads for travelers and merchants, yet filled with roaming monsters and bandits.
 
-# Plot
+## Description
+- Rolling fields dotted with wildflowers and endless horizons; a serene landscape masking constant peril.
+- Serves as a rite-of-passage hunting ground for new adventurers facing plentiful low-rank [[monsters]] (E-F).
 
+## Inhabitants
+- Wandering merchants, fledgling adventurers, wildlife, and predatory monsters.
 
-# Key Locations
+## Points of Interest
 
+## Daily Life
+- Patrols, caravans, and hunting parties crisscross the plains, timing travel to avoid storms and monster migrations.
 
-# History
+## Factions & Influence
+- Bandit gangs like the Iron Vultures exploit the open terrain; local settlements post bounties to keep routes safe.
 
+## History
 
-# Adventuring Hooks
-- Towns on the plains’ outskirts frequently post bounties for adventurers to deal with encroaching monsters.
-- Merchants crossing the plains have been vanishing, and their abandoned wagons show signs of claw marks and arcane burns. Adventurers are hired to track and eliminate the cause.
-- A notorious bandit gang called the Iron Vultures has set up camp in the Iyresan Plains, preying on travelers and [[locations/iyresa/baytown]]. The gang is well-organized, using the plains’ natural features to evade capture.
+## Secrets & Rumors
+> [!note]
+> Abandoned wagons with claw marks and arcane burns hint at a hidden predator stalking trade routes.
+
+## Adventure Hooks
+- Towns on the outskirts post frequent bounties for monster culls.
+- Merchants vanish, leaving wagons scarred by claws and arcane burns; track the threat before caravans halt entirely.
+- The Iron Vultures bandits prey on travelers and [[locations/iyresa/baytown]], using the plains’ natural cover to evade capture.
+
