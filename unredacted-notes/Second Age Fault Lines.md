@@ -172,7 +172,6 @@ Its power comes from **layered ignorance**.
 
 ## 1. The Celestial Crown
 **What the Crown Knows:**
-
 - The Seal exists.
 - Magic weakens it.
 - Total failure would be catastrophic.
@@ -205,7 +204,6 @@ They translate divine anxiety into policy.
 
 ## 3. The Greater Clergy
 **What They Believe:**
-
 - Magic is dangerous because doctrine says so.
 - Licensing preserves order.
 - Disobedience invites catastrophe.
@@ -238,6 +236,7 @@ This is where schisms begin.
 
 ### Pressure Zones, Not Borders
 Before you draw borders, identify **pressure**.
+See [[Miskar Lands]] for more details
 
 ---
 
