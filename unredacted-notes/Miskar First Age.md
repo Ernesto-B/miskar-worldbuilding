@@ -39,7 +39,7 @@ This is not player-facing. It includes truths the public does not know.
 - **Thaurûn the Starless**, an aasimar, reincarnation of one of the Great Gods, commander of the Grey’s organized hosts.
 - **Vorkul the Eclipse**, a dragon empyrean of the Old Gods. The largest and greatest dragon to ever exist in Miskar.
 - **Angoleth, the Shadow Grafter**, a fallen elf, a maker of warped life through the Grey.
-- **Caelreth the Darkeater**, elevated and controlled by the Old Gods, loyal to Thaurûn but also a contingency against him should he fail to align with the Old God's objectives.
+- **Caelreth the Darkeater**, elevated and controlled by the Old Gods, loyal to Thaurûn but also a contingency against him should he fail to align with the Old God's objectives. Feeds and thrives on dread of enemies. 
 - **The Veiled**, seven Grey-decayed oathbound servants of Caelreth. They are past kings and champions of Miskar. Caelreth plus the seven forms a company of eight.
 - **Balors**, deep-born entities allied with Thaurûn by shared hatred of sunlight rather than loyalty. Mostly unaffiliated except in the War of Night.
 - Additional captains exist, including **Rivorn the Dread**, the necromancer who targets the underground realms during the War of Night.

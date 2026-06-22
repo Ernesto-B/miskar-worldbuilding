@@ -381,6 +381,8 @@ Meaning:
 ### 10.1 Why nations support the Guild
 Nations fund the Guild because the alternative is worse.
 
+> “No king raises arms at Emberhold, lest the world’s veins run dry and the Grey seep back.”
+
 They cannot admit it openly, but they know:
 - their borders are not sealed against the Grey
 - threats cross boundaries
