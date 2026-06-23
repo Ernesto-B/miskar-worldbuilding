@@ -1,3 +1,18 @@
+---
+title: Ossia — The Fractured South
+type: location
+region: ossia
+status: canon
+tags: [location, region]
+aliases: [Ossia]
+---
+
+**Related Regions:** [[locations/Aldenmere/Overview|Aldenmere]] · [[locations/Valdrath/Overview|Valdrath]] · [[locations/Solanthis/Overview|Solanthis]] · [[locations/Ghrathmark/Overview|Ghrathmark]]
+
+**Notable Sites:** [[locations/aetheris-isles/black-tides|Black Tides]] (north coast access via Aetheris Isles)
+
+---
+
 Solanthis is **order imposed from above**. Ossia should be **survival negotiated under an indifferent sun**.
 
 # Ossia: The Fractured South

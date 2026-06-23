@@ -1,3 +1,18 @@
+---
+title: Solanthis — The Dawn Dominion
+type: location
+region: solanthis
+status: canon
+tags: [location, region]
+aliases: [Solanthis]
+---
+
+**Related Regions:** [[locations/Ghrathmark/Overview|Ghrathmark]] · [[locations/Aldenmere/Overview|Aldenmere]] · [[locations/Ossia/Overview|Ossia]] · [[locations/Valdrath/Overview|Valdrath]]
+
+**Religion:** [[religion/the-three-pillars|The Three Pillars]] (Celestial Order — seat of power)
+
+---
+
 # Solanthis: The Dawn Dominion
 
 **Core identity:** the birthplace of the Celestial Order, the holiest land in Miskar, and the place where faith has become government, culture, law, architecture, military doctrine, and social identity.

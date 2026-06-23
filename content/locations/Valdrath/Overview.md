@@ -1,3 +1,18 @@
+---
+title: Valdrath — The Breadshield Realm
+type: location
+region: valdrath
+status: canon
+tags: [location, region]
+aliases: [Valdrath]
+---
+
+**Related Regions:** [[locations/Aldenmere/Overview|Aldenmere]] · [[locations/Solanthis/Overview|Solanthis]] · [[locations/Ossia/Overview|Ossia]] · [[locations/Varek Sond/Overview|Varek Sond]]
+
+**Religion:** [[religion/the-three-pillars|The Three Pillars]] (Order-aligned, contested)
+
+---
+
 Valdrath has a very strong campaign identity if you make it the country where **military necessity, food production, religious pressure, and creeping corruption are all squeezing ordinary people at once**.
 
 Where Solanthis is **faith from above**, Ossia is **survival through price**, Grathmark is **threshold politics**, and Aldenmere is **beautiful remembrance**, Valdrath should be:

@@ -1,3 +1,18 @@
+---
+title: The Frostlands — The Auroral Exile
+type: location
+region: frostlands
+status: canon
+tags: [location, region]
+aliases: [The Frostlands, Frostlands]
+---
+
+**Related Regions:** [[locations/Ghrathmark/Overview|Ghrathmark]] · [[locations/Valdrath/Overview|Valdrath]] · [[locations/Varek Sond/Overview|Varek Sond]]
+
+**Approach:** Via Thornhallow through the Coldwall Mountains (surface) or Nightlands routes
+
+---
+
 The Frostlands should feel like the place where Miskar stops being political and starts being **mythic**.
 
 Solanthis is frightening because people are watched.  

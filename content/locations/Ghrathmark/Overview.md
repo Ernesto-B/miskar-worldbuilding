@@ -1,3 +1,18 @@
+---
+title: Ghrathmark — The Rootward Realm
+type: location
+region: ghrathmark
+status: canon
+tags: [location, region]
+aliases: [Ghrathmark, Grathmark]
+---
+
+**Related Regions:** [[locations/Solanthis/Overview|Solanthis]] · [[locations/Aldenmere/Overview|Aldenmere]] · [[locations/The Frostlands/Overview|The Frostlands]] · [[locations/Varek Sond/Overview|Varek Sond]]
+
+**Notable:** [[locations/aetheris-isles/black-tides|Black Tides]] border to the north
+
+---
+
 The key is to make it not just “the Nightlands country,” but the place where the surface world and the underworld have learned to coexist uneasily.
 
 Where Solanthis is **the sky watching you**, and Ossia is **the desert bargaining with you**, Grathmark should be:

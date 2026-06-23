@@ -1,3 +1,18 @@
+---
+title: Varek Sond — The Ledger Crown
+type: location
+region: varek-sond
+status: canon
+tags: [location, region]
+aliases: [Varek Sond]
+---
+
+**Related Regions:** [[locations/Valdrath/Overview|Valdrath]] · [[locations/Ghrathmark/Overview|Ghrathmark]] · [[locations/Ossia/Overview|Ossia]] · [[locations/iyresa/index|Coast of Iyresa]]
+
+**Notable Factions:** [[factions/iyresa/the-gilded-compass|The Gilded Compass]] (trade network overlap)
+
+---
+
 Varek Sond is the perfect contrast to Valdrath.
 
 Valdrath thinks the future belongs to whoever can feed and field the most bodies.  

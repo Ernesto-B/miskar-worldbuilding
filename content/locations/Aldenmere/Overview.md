@@ -1,3 +1,18 @@
+---
+title: Aldenmere — The Crimson March
+type: location
+region: aldenmere
+status: canon
+tags: [location, region]
+aliases: [Aldenmere]
+---
+
+**Related Regions:** [[locations/Ossia/Overview|Ossia]] · [[locations/Ghrathmark/Overview|Ghrathmark]] · [[locations/Valdrath/Overview|Valdrath]] · [[locations/Solanthis/Overview|Solanthis]]
+
+**Religion:** [[religion/the-three-pillars|The Three Pillars]] (Celestial Order)
+
+---
+
 Aldenmere has the potential to be one of the most emotionally memorable regions in Miskar because it is not just “creepy red forest land.” It is the place where **the blood of the First Age became landscape**.
 
 Where Solanthis is **holy certainty**, Ossia is **lawless survival**, and Grathmark is **threshold politics**, Aldenmere should be:

@@ -37,4 +37,4 @@ Border skirmishes, relic hunters, and poachers testing wardens’ patience.
 - Uncover why a waystone network is failing along the border.
 
 ## Further Reading
-- [[regions/iyresa/index|index]]
+- [[locations/iyresa/index|Coast of Iyresa]]
