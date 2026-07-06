@@ -1,0 +1,7 @@
+- Very old country, lots of history.
+- Cities going through multiple iterations (think Egypt, gone through calamities, eras of rulership, etc). Each era bringing with it a lot of changes. 
+- Both wood elves and high elves (but not sure how high elves immigrated).
+- Value on intelligence and military, pretty well off. Not much peasantry... people live well.
+- Some Dwarves also live there/around. Well-integrated into Sylveid, probably coming from the Cindral Mountains and Stonefall (the royal family can speak Dwarvish). 
+- Glendall (one of the leaders of the order) is a dwarf and good friends with Thoris (royal family). Trusted by the royal family of Sylveid (Falsenor family).
+- 

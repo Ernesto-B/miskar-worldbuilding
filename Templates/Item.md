@@ -1,9 +1,8 @@
 ---
-title: 
 type: item
-region: 
 tags: [item]
 aliases: []
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## Overview
@@ -17,7 +16,7 @@ Where it came from.
 
 ## Mechanics
 - Effects
-- Charges / limits
+- Charges / limits / awakening phases / cursed
 - Restrictions
 
 ## Usage & Risks

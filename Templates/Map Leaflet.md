@@ -1,6 +1,6 @@
 ```leaflet 
-id: leaflet-map 
-image: [[Image.jpg]] 
+id: miskar-map 
+image: [[miskar-map.png]] 
 height: 500px 
 lat: 50 
 long: 50 
@@ -13,3 +13,4 @@ marker:
 default, 39.983334, -82.983330, [[Note]] 
 darkMode: true 
 ```
+ 
